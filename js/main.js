@@ -55,23 +55,36 @@ $(document).ready(function(){
     // Header ------------------------------------------------------ Header
 
     // Custom Scrollbar -------------------------------------------- Custom Scrollbar
-    $(".custom-scrollbar").wrapInner("<div class='scrollbar-wrap'></div>");
-    $(".custom-scrollbar").each(function(){
-        var padding = $(this).css("padding");
+    function bindCustomScrollbar(){
+        $(".custom-scrollbar:not(.binded)").wrapInner("<div class='scrollbar-wrap'></div>");
+        $(".custom-scrollbar:not(.binded)").each(function(){
+            var padding = $(this).css("padding");
 
-        $(this).find(".scrollbar-wrap").css("padding", padding);
-        $(this).css("padding", 0);
-    });
-    $(".custom-scrollbar").mCustomScrollbar({
-        theme : "minimal-dark"
-    });
+            if( !$(this).attr("data-padding") || $(this).attr("data-padding") == "" ){
+                $(this).attr("data-padding", $(this).css("padding"));
+            }
+            $(this).find(".scrollbar-wrap").css("padding", $(this).attr("data-padding"));
+            $(this).css("padding", 0);
+        });
+        $(".custom-scrollbar:not(.binded)").mCustomScrollbar({
+            theme : "minimal-dark"
+        });
+        $(".custom-scrollbar:not(.binded)").addClass("binded");
+    }
     // Custom Scrollbar -------------------------------------------- Custom Scrollbar
 
     // Custom Select  ---------------------------------------------- Custom Select
-    $(".custom-select").select2({
-        placeholder: "",
-        allowClear: true
-    });
+    function bindCustomSelect(){
+        $(".custom-select:not(.binded)").each(function(){
+            $(this).select2({
+                placeholder: "",
+                allowClear: true
+                // dropdownParent: $(this).parent()
+            });
+        });
+
+        $(".custom-select:not(.binded)").addClass("binded");
+    }
     // Custom Select  ---------------------------------------------- Custom Select
 
     // Progress Bars  ---------------------------------------------- Progress Bars
@@ -115,7 +128,7 @@ $(document).ready(function(){
                 pie.style.strokeDasharray = result;
 
                 $this.find(".b-circle__number").addClass("show");
-            }, 50*i);
+            }, 100*i);
 
             $(this).addClass("animated");
         });
@@ -146,7 +159,6 @@ $(document).ready(function(){
     });
 
     function isSpoilerOpened(index){
-        console.log(index+ " " +getCookie("spoiler-" + index));
         return getCookie("spoiler-" + index) == "opened";
     }
 
@@ -205,4 +217,235 @@ $(document).ready(function(){
         });
     }
     // Cookie Functions  ------------------------------------------- Cookie Functions
+
+    // Ajax forms  ------------------------------------------------- Ajax forms
+    function bindForm() {
+        var rePhone = /^\+\d \(\d{3}\) \d{3}-\d{2}-\d{2}$/,
+            tePhone = '+7 (999) 999-99-99';
+
+        $.validator.addMethod('customPhone', function (value) {
+            return rePhone.test(value);
+        });
+
+        $(".ajax:not(.binded)").parents("form").each(function(){
+            $(this).validate({
+                rules: {
+                    email: 'email',
+                    phone: 'customPhone'
+                }
+            });
+            if( $(this).find("input[name=phone]").length ){
+                $(this).find("input[name=phone]").mask(tePhone,{placeholder:" "});
+            }
+        });
+
+        $(".ajax:not(.binded)").parents("form").submit(function(){
+            if( $(this).find("input.error,select.error,textarea.error").length == 0 ){
+                var $this = $(this),
+                    $cont = $($this.attr("data-block"));
+
+                $this.find(".ajax").attr("onclick", "return false;");
+
+                if( $this.attr("data-beforeAjax") && customHandlers[$this.attr("data-beforeAjax")] ){
+                    customHandlers[$this.attr("data-beforeAjax")]($this);
+                }
+
+                $.ajax({
+                    type: $(this).attr("method"),
+                    url: $(this).attr("action"),
+                    data:  $this.serialize(),
+                    success: function(msg){
+                        if(isValidJSON(msg)){
+                            jsonHandler(msg);
+                        }else if( msg != "none" ){
+                            setResult($cont, msg);
+                        }
+
+                        if( $this.attr("data-afterAjax") && customHandlers[$this.attr("data-afterAjax")] ){
+                            customHandlers[$this.attr("data-afterAjax")]($this);
+                        }
+
+                        $.fancybox.close();
+                    },
+                    error: function(){
+                        $.fancybox.close();
+                        $(".b-error-link").click();
+                    },
+                    complete: function(){
+                        $this.find(".ajax").removeAttr("onclick");
+                        $this.find("input[type=text],textarea").val("");
+                    }
+                });
+            }else{
+                $(this).find("input.error,select.error,textarea.error").eq(0).focus();
+            }
+            return false;
+        });
+
+        $(".ajax-popup:not(.binded)").fancybox({
+            type: "ajax",
+            btnTpl: {
+                smallBtn: '<button data-fancybox-close="" class="fancybox-close icon-close" title="Close"></button>'
+            },
+            ajax : {
+                complete: function(el, type) {
+                    if( type == "error" )
+                        $(".fancybox-inner").html("<div class='b-popup' style='width: 600px;'><h2>Ошибка</h2>"+el.responseText+"</div>");
+                }
+            },
+            afterLoad: function(){
+                bindForm();
+            },
+            afterShow: function(){
+                $(".b-popup").find("input[type='text'],input[type='number'],textarea").eq(0).focus();
+            }
+        });
+
+        $(".ajax:not(.binded), .ajax-popup:not(.binded)").addClass("binded");
+
+        bindCustomScrollbar();
+        animateProgressBars();
+        bindCustomSelect();
+        bindAjaxSearch();
+    }
+
+    function setResult($cont, html){
+        if( $cont.children(".mCustomScrollBox").children(".mCSB_container").children(".scrollbar-wrap").length ){
+            $cont = $cont.children(".mCustomScrollBox").children(".mCSB_container").children(".scrollbar-wrap");
+        }
+        if( $cont.hasClass("b-popup") ){
+            var $close = $cont.find(".fancybox-close").clone();
+            $cont.replaceWith(html);
+            $(".b-popup").each(function(){
+                if( !$(this).find(".fancybox-close").length ){
+                    $(this).prepend($close);
+                }
+            });
+        }else{
+            $cont.html(html);
+        }
+
+        if( $(".b-personal-col").length ){
+            $(".b-personal-col").mCustomScrollbar("scrollTo", "top", {
+                scrollEasing: "easeOut"
+            });
+        }
+
+        bindForm();
+    }
+
+    $("body").on("click", ".ajax", function(){
+        $(this).parents("form").submit();
+        return false;
+    });
+
+    function isValidJSON(src) {
+        var filtered = src;
+        filtered = filtered.replace(/\\["\\\/bfnrtu]/g, '@');
+        filtered = filtered.replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g, ']');
+        filtered = filtered.replace(/(?:^|:|,)(?:\s*\[)+/g, '');
+
+        return (/^[\],:{}\s]*$/.test(filtered));
+    }
+
+    function jsonHandler(msg){
+        var json = JSON.parse(msg);
+        if( json.result == "success" ){
+            if( json.actions.length ){
+                for( var action of json.actions ){
+                    switch (action.action) {
+                        case "delete":
+                            $(action.selector).remove();
+                        break;
+
+                        case "change":
+                            for( var selector in action.items ){
+                                $(selector).html(action.items[selector]);
+                            }
+                        break;
+
+                        case "ajaxSearch":
+                            ajaxSearch($(action.selector));
+                        break;
+                    }
+                }
+            }
+        }
+    }
+    // Ajax forms  ------------------------------------------------- Ajax forms
+
+    // Other  ------------------------------------------------------ Other
+    $("body").on("click", "#b-change-password", function(){
+        $(".b-change-password-input-group").fadeIn(300);
+        $("#old_password").focus();
+
+        return false;
+    });
+    // Other  ------------------------------------------------------ Other
+
+    // Ajax search  ------------------------------------------------ Ajax search
+    function bindAjaxSearch(){
+        $(".b-query-input:not(.binded)").each(function(){
+            var prev = $(this).val();
+
+            $(this).attr("data-count", 0);
+
+            $(this).keyup(function(e){
+                var code = e.keyCode,
+                    value = $(this).val();
+
+                if( (value == prev || code == 13 || value.length < 3) && value != "" ){
+                    return true;
+                }
+
+                ajaxSearch($(this));
+
+                prev = value;
+            });    
+        });
+
+        $(".b-query-input:not(.binded)").addClass("binded");
+    }
+
+    function ajaxSearch($input){
+        var url = $input.attr("data-href"),
+            $block = $($input.attr("data-block")),
+            params = $input.attr("data-params"),
+            name = $input.attr("name"),
+            value = $input.val();
+
+        if( params.indexOf("=") != -1 ){
+            params += "&";
+        }else{
+            params = "";
+        }
+
+        $input.attr("data-count", getCount($input) + 1);
+
+        $.ajax({
+            type: "GET",
+            url: url,
+            data: params + name + "=" + value,
+            success: function(msg){
+                $input.attr("data-count", getCount($input) - 1);
+
+                if( getCount($input) == 0 ){
+                    setResult($block, msg);
+                }
+            },
+            error: function(){
+
+            },
+            complete: function(){
+
+            }
+        });
+    }
+
+    function getCount($input){
+        return $input.attr("data-count")*1;
+    }
+    // Ajax search  ------------------------------------------------ Ajax search
+
+    bindForm();
 });

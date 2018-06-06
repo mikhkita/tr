@@ -31,8 +31,8 @@
 				</a>
 				<div class="b-lk-top__bubble">
 					<ul class="b-lk-top__menu b-link-list">
-						<li><a href="#">Личный кабинет</a></li>
-						<li><a href="#">Выход</a></li>
+						<li><a href="lk.html">Личный кабинет</a></li>
+						<li><a href="auth.html">Выход</a></li>
 					</ul>
 				</div>
 			</div>
@@ -112,11 +112,11 @@
 						<div class="b-accordion__block">
 							<div class="b-checkbox">
 								<input type="checkbox" id="group-2" name="group" value="2" checked>
-								<label for="group-2"><span style="background-color: #00BD9C;"></span>ГПП</label>
+								<label for="group-2"><span style="background-color: #00BD9C;"></span><div class="skill-group-1">n</div></label>
 							</div>
 							<div class="b-checkbox">
 								<input type="checkbox" id="group-3" name="group" value="3" checked>
-								<label for="group-3"><span style="background-color: #00A0DC;"></span>ЕКЦ</label>
+								<label for="group-3"><span style="background-color: #00A0DC;"></span><div class="skill-group-2">n2</div></label>
 							</div>
 						</div>
 						<h3 class="b-accordion__title" data-id="5">Мои списки</h3>
@@ -135,36 +135,36 @@
 							<div class="b-staff">
 								<div class="b-staff-item clearfix">
 									<div class="b-staff-item__image">
-										<a href="#" class="b-avatar" style="background: #E94B35;">
+										<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E94B35;">
 											<img src="i/avatar-1.jpg" alt="">
 										</a>
 									</div>
 									<div class="b-staff-item__online">Online</div>
 									<div class="b-staff-item__text">
-										<a href="#" class="b-staff-item__name">Константин Константинопальский</a>
+										<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Константин Константинопальский</a>
 										<div class="b-staff-item__post">Филиал 1, старший инженер</div>
 									</div>
 								</div>
 								<div class="b-staff-item clearfix">
 									<div class="b-staff-item__image">
-										<a href="#" class="b-avatar" style="background: #E37828;">
+										<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E37828;">
 											<img src="i/avatar-2.jpg" alt="">
 										</a>
 									</div>
 									<div class="b-staff-item__text">
-										<a href="#" class="b-staff-item__name">Василий Кошкин</a>
+										<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Василий Кошкин</a>
 										<div class="b-staff-item__post">Филиал 5, бухгалтер</div>
 									</div>
 								</div>
 								<div class="b-staff-item clearfix">
 									<div class="b-staff-item__image">
-										<a href="#" class="b-avatar" style="background: #00BD9C;">
+										<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #00BD9C;">
 											<img src="i/avatar-3.jpg" alt="">
 										</a>
 									</div>
 									<div class="b-staff-item__online">Online</div>
 									<div class="b-staff-item__text">
-										<a href="#" class="b-staff-item__name">Наталья Смирнова</a>
+										<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Наталья Смирнова</a>
 										<div class="b-staff-item__post">Филиал 3, секретарь</div>
 									</div>
 								</div>
@@ -175,29 +175,33 @@
 			</div>
 			<div class="b-right-col custom-scrollbar">
 				<a href="index.html" class="b-round-btn b-top-right-btn icon-right-arrow">Вернуться на главную</a>
-				<h2>Скилл-группа n</h2>
+				<h2>Скилл-группа <span class="skill-group-1">n</span></h2>
 				<div class="b-detail b-skill clearfix">
 					<div class="b-detail-left">
 						<img src="i/no-photo.svg" alt="">
 						<ul class="b-link-list">
 							<li><a href="#">Изменить фотографию</a></li>
 							<li><a href="#">Добавить сотрудника</a></li>
-							<li><a href="#">Изменить название</a></li>
-							<li><a href="#">Удалить группу</a></li>
+							<li><a href="ajax/change_name_form.php?id=1" class="ajax-popup">Изменить название</a></li>
+							<li><a href="ajax/remove_group_form.php?id=1" class="ajax-popup">Удалить группу</a></li>
 						</ul>
 					</div>
 					<div class="b-detail-right">
-						<h3>KPI скилл-группы n</h3>
-						<div class="b-progressbar-stat"><b>75%</b> заявок обработано</div>
-						<div class="b-progressbar-cont without-icon without-percent">
-							<div class="b-line-progressbar orange" data-percent="75"></div>
-						</div>
-						<div class="b-progressbar-stat"><b>90%</b> звонков совершено</div>
-						<div class="b-progressbar-cont without-icon without-percent">
-							<div class="b-line-progressbar blue" data-percent="90"></div>
-						</div>
+						<h3>KPI скилл-группы <span class="skill-group-1">n</span></h3>
+						<a href="ajax/request_stat.php?id=1" class="b-progressbar-link ajax-popup">
+							<div class="b-progressbar-stat"><b>75%</b> заявок обработано</div>
+							<div class="b-progressbar-cont without-icon without-percent">
+								<div class="b-line-progressbar orange" data-percent="75"></div>
+							</div>
+						</a>
+						<a href="ajax/call_stat.php?id=1" class="b-progressbar-link ajax-popup">
+							<div class="b-progressbar-stat"><b>90%</b> звонков совершено</div>
+							<div class="b-progressbar-cont without-icon without-percent">
+								<div class="b-line-progressbar blue" data-percent="90"></div>
+							</div>
+						</a>
 						<div class="b-separator"></div>
-						<h3>Статистика скилл-группы n</h3>
+						<h3>Статистика скилл-группы <span class="skill-group-1">n</span></h3>
 						<div class="b-circles clearfix">
 							<div class="b-circle orange" data-percent="7">
 								<svg width="76" height="76" class="b-circle__svg">
@@ -229,18 +233,18 @@
 							</div>
 						</div>
 						<div class="b-separator"></div>
-						<h3>Участники скилл-группы n <small>(27 человек)</small></h3>
+						<h3>Участники скилл-группы <span class="skill-group-1">n</span> <small>(<span id="skill-group-members">27 человек</span>)</small></h3>
 						<div class="b-staff big">
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-1">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #E94B35;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E94B35;">
 										<img src="i/avatar-1.jpg" alt="">
 									</a>
 								</div>
 								<div class="b-staff-item__online">Online</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=1" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Константин Константинопальский</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Константин Константинопальский</a>
 									<div class="b-staff-item__post">Филиал 1, старший инженер</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file"></span>
@@ -263,15 +267,15 @@
 									</div>
 								</div>
 							</div>
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-2">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #E37828;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E37828;">
 										<img src="i/avatar-2.jpg" alt="">
 									</a>
 								</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=2" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Василий Кошкин</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Василий Кошкин</a>
 									<div class="b-staff-item__post">Филиал 5, бухгалтер</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file active"></span>
@@ -294,16 +298,16 @@
 									</div>
 								</div>
 							</div>
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-3">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #00BD9C;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #00BD9C;">
 										<img src="i/avatar-3.jpg" alt="">
 									</a>
 								</div>
 								<div class="b-staff-item__online">Online</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=3" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Наталья Смирнова</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Наталья Смирнова</a>
 									<div class="b-staff-item__post">Филиал 3, секретарь</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file"></span>
@@ -326,16 +330,16 @@
 									</div>
 								</div>
 							</div>
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-4">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #E94B35;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E94B35;">
 										<img src="i/avatar-1.jpg" alt="">
 									</a>
 								</div>
 								<div class="b-staff-item__online">Online</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=4" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Константин Константинопальский</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Константин Константинопальский</a>
 									<div class="b-staff-item__post">Филиал 1, старший инженер</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file"></span>
@@ -358,15 +362,15 @@
 									</div>
 								</div>
 							</div>
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-5">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #E37828;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #E37828;">
 										<img src="i/avatar-2.jpg" alt="">
 									</a>
 								</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=5" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Василий Кошкин</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Василий Кошкин</a>
 									<div class="b-staff-item__post">Филиал 5, бухгалтер</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file active"></span>
@@ -389,16 +393,16 @@
 									</div>
 								</div>
 							</div>
-							<div class="b-staff-item clearfix">
+							<div class="b-staff-item clearfix" id="staff-6">
 								<div class="b-staff-item__image">
-									<a href="#" class="b-avatar" style="background: #00BD9C;">
+									<a href="ajax/view_man.php" class="b-avatar ajax-popup" style="background: #00BD9C;">
 										<img src="i/avatar-3.jpg" alt="">
 									</a>
 								</div>
 								<div class="b-staff-item__online">Online</div>
-								<a href="#" class="b-staff-item__delete">Удалить</a>
+								<a href="ajax/remove_man_form.php?id=6" class="ajax-popup b-staff-item__delete">Удалить</a>
 								<div class="b-staff-item__text">
-									<a href="#" class="b-staff-item__name">Наталья Смирнова</a>
+									<a href="ajax/view_man.php" class="b-staff-item__name ajax-popup">Наталья Смирнова</a>
 									<div class="b-staff-item__post">Филиал 3, секретарь</div>
 									<div class="b-progressbar-cont">
 										<span class="b-icon icon-file"></span>
@@ -430,7 +434,7 @@
 
 	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="js/jquery.mCustomScrollbar.js"></script>
-	<script type="text/javascript" src="js/select2.min.js"></script>
+	<script type="text/javascript" src="js/select2.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
 	<script type="text/javascript" src="js/jquery.touch.min.js"></script>
