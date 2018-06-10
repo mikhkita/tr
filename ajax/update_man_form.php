@@ -57,10 +57,11 @@
 					</div>
 					<div class="b-man-right">
 						<h3 class="with-margin">Скилл-группы:</h3>
-						<ul class="b-link-list">
-							<li>Скилл-группа 1</li>
-							<li>Скилл-группа 5</li>
-							<li>Скилл-группа 6</li>
+						<a href="ajax/add_to_group_form.php?id=1" class="ajax-popup b-add-to-group">Добавить в скилл-группу</a>
+						<ul class="b-link-list" id="b-group-list">
+							<li>Скилл-группа 1 <a href="#" class="icon-close b-remove-list"></a><input type="hidden" name="groups[]" value="1"></li>
+							<li>Скилл-группа 5 <a href="#" class="icon-close b-remove-list"></a><input type="hidden" name="groups[]" value="5"></li>
+							<li>Скилл-группа 6 <a href="#" class="icon-close b-remove-list"></a><input type="hidden" name="groups[]" value="6"></li>
 						</ul>
 					</div>
 				</div>

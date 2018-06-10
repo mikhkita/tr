@@ -307,6 +307,7 @@ $(document).ready(function(){
         animateProgressBars();
         bindCustomSelect();
         bindAjaxSearch();
+        bindSWS();
     }
 
     function setResult($cont, html){
@@ -381,6 +382,12 @@ $(document).ready(function(){
 
         return false;
     });
+
+    $("body").on("click", ".b-remove-list", function(){
+        $(this).parents("li").remove();
+
+        return false;
+    });
     // Other  ------------------------------------------------------ Other
 
     // Ajax search  ------------------------------------------------ Ajax search
@@ -446,6 +453,44 @@ $(document).ready(function(){
         return $input.attr("data-count")*1;
     }
     // Ajax search  ------------------------------------------------ Ajax search
+
+    // Select with Search ------------------------------------------ Select with Search
+    function bindSWS(){
+        
+    }
+    function bindSWS(){
+        $(".b-select-with-search:not(.binded)").each(function(){
+            var $this = $(this),
+                $form = $(this).parents("form"),
+                ids = $(this).val().split(","),
+                pattern = $(this).attr("data-pattern");
+
+            if( ids.length == 1 && ids[0] == "" ){
+                ids = [];
+            }
+
+            for( var id of ids ){
+                if( $("#" + pattern + id).length ){
+                    $("#" + pattern + id).prop("checked", true);
+                }
+            }
+
+            $form.find("input[type='checkbox']").change(function(){
+                var index = ids.indexOf( $(this).val() );
+                if( $(this).prop("checked") ){
+                    if( index == -1 ){
+                        ids.push( $(this).val() );
+                    }
+                }else{
+                    if( index != -1 ){
+                        ids.splice(index, 1);
+                    }
+                }
+                $this.val(ids.join(","));
+            });
+        });
+    }
+    // Select with Search ------------------------------------------ Select with Search
 
     bindForm();
 });

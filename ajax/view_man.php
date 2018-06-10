@@ -4,7 +4,7 @@
 		<div class="b-detail-left">
 			<img src="i/avatar-2.jpg" alt="">
 			<ul class="b-link-list">
-				<li><a href="#">Добавить в список</a></li>
+				<li><a href="ajax/add_to_group_form.php?id=1" class="ajax-popup">Добавить в список</a></li>
 				<li><a href="ajax/update_man_form.php?id=1" class="ajax-popup">Редактировать профиль</a></li>
 			</ul>
 		</div>
