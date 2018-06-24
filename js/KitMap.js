@@ -41,7 +41,7 @@
        		margin : 20,
        		startX : 0,
        		startY : 0,
-       		zoom : 5,
+       		zoom : 2,
        		startScrollTop : 0,
 			startScrollLeft : 0,
 			isTouch : ('ontouchstart' in document.documentElement),
@@ -109,6 +109,9 @@
 
 					_.canvas.css("width", canvasWidth);
 					_.find(".b-map").css("width", width);
+					_.removeClass(function(index, className){
+					    return (className.match (/(^|\s)zoom-\S+/g) || []).join(' ');
+					}).addClass("zoom-"+_.zoom);
 
 					console.log(cols);
 				},
