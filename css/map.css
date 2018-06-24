@@ -1,0 +1,27 @@
+.b-map-decor{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+}
+	.b-map-decor img{
+		position: absolute;
+		-webkit-transform: translate(-50%, -50%);
+		   -moz-transform: translate(-50%, -50%);
+		    -ms-transform: translate(-50%, -50%);
+		   	 -o-transform: translate(-50%, -50%);
+				transform: translate(-50%, -50%);
+	}
+	.b-map-4 .b-flower{
+		width: 3.4%;
+	}
+	.b-map-4 .b-flower-1{
+		top: 3.5%;
+		left: 2.9%;
+	}
+	.b-map-4 .b-flower-2{
+		top: 22%;
+		left: 2.9%;
+	}

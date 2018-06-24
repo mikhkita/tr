@@ -202,9 +202,17 @@ input.error,textarea.error{
 /* Icons ---------------------------------------------------------- Icons */
 
 /* Base styles ---------------------------------------------------- Base styles */
+.hide{
+	display: none;
+}
 .b-content{
 	padding: 20px 20px;
 	height: calc(100vh - 60px);
+}
+.b-content.blue{
+	background-image: -webkit-linear-gradient(-225deg, #003B81 0%, #0073B4 26%, #01ACE9 96%);
+	background-image: -o-linear-gradient(-225deg, #003B81 0%, #0073B4 26%, #01ACE9 96%);
+	/* background-image: linear-gradient(-45deg, #003B81 0%, #0073B4 26%, #01ACE9 96%); */
 }
 	.b-one-col,
 	.b-left-col,
@@ -213,6 +221,9 @@ input.error,textarea.error{
 		background-color: #FFF;
 		padding: 19px;
 	}
+		.b-right-map .mCSB_container{
+			min-height: 60px;
+		}
 	.b-one-col{
 		width: 100%;
 	}
@@ -223,7 +234,8 @@ input.error,textarea.error{
 		.b-left-col .scrollbar-wrap{
 			/* padding: 19px; */
 		}
-	.b-right-col{
+	.b-right-col,
+	.b-right-map{
 		float: right;
 		width: calc(100% - 420px);
 	}
@@ -507,14 +519,14 @@ input:-moz-placeholder {
 	text-decoration: none;
 	background-color: #fff;
 	display: block;
-	padding: 9px 18px 11px 45px;
+	padding: 9px 25px 11px 50px;
 	border-radius: 100px;
 	font-family: DINPro-Regular;
 }
 	.b-round-btn:before{
 		color: #E37828;
 		position: absolute;
-		left: 22px;
+		left: 26px;
 		top: 13px;
 		-webkit-transition: left 150ms ease-out;
 		   -moz-transition: left 150ms ease-out;
@@ -523,7 +535,7 @@ input:-moz-placeholder {
 				transition: left 150ms ease-out;
 	}
 	.b-round-btn:hover:before{
-		left: 17px;
+		left: 22px;
 	}
 .b-round-orange-btn{
 	color: #E37828;
@@ -532,6 +544,13 @@ input:-moz-placeholder {
 	position: absolute;
 	right: 20px;
 	top: 20px;
+}
+.b-right-map .b-top-right-btn{
+	position: fixed;
+	top: 80px;
+	right: 50%;
+	margin-right: -620px;
+	z-index: 100;
 }
 	.b-top-right-btn.icon-right-arrow:before{
 		font-size: 12px;
@@ -544,7 +563,7 @@ input:-moz-placeholder {
 	background-color: #FFF;
 	padding: 10px 20px 8px;
 	height: 60px;
-	z-index: 20;
+	z-index: 200;
 	position: relative;
 }
 	.b-logo{
@@ -1180,6 +1199,7 @@ input:-moz-placeholder {
 .b-big-popup{
 	max-width: 1030px;
 	width: calc(100% - 40px);
+	min-width: 1000px;
 }
 	.b-popup-margin-content{
 		margin-top: 30px;
@@ -1249,6 +1269,177 @@ input:-moz-placeholder {
 			color: #B3B3B3;
 		}
 /* Table ---------------------------------------------------------- Table */
+
+/* Auth ----------------------------------------------------------- Auth */
+.b-auth-content{
+	text-align: center;
+	display: table;
+	width: 100%;
+}
+	.b-auth-wrap{
+		display: table-cell;
+		vertical-align: middle;
+	}
+		.b-auth-block{
+			background: #FFFFFF;
+			box-shadow: 0 2px 8px 0 rgba(80,80,80,0.88);
+			border-radius: 5px;
+			width: 400px;
+			padding: 50px 60px 57px;
+			display: inline-block;
+			margin-bottom: 50px;
+		}
+			.b-auth-block img{
+				width: 47px;
+				height: 47px;
+				border-radius: 100px;
+				border: 1px solid #FFF;
+				box-shadow: 0px 0px 0px 2px #ECF0F1;
+				margin-bottom: 5px;
+			}
+			.b-auth-block h2{
+				margin-bottom: 29px;
+			}
+			.b-auth-input-cont{
+
+			}
+				.b-auth-input-cont .b-input{
+					margin-bottom: 10px;
+				}
+					.b-auth-input-cont .b-input input{
+
+					}
+			.b-auth-block .b-bottom-buttons{
+				margin-bottom: 24px;
+				margin-top: 40px;
+			}
+				.b-auth-block .b-btn{
+					width: 100%;
+				}
+			.b-auth-block .b-grey-link{
+				color: #9B9B9B;
+			}
+				.b-auth-block .b-grey-link:hover{
+					text-decoration: none;
+				}
+/* Auth ----------------------------------------------------------- Auth */
+
+/* Cards ---------------------------------------------------------- Cards */
+.b-cards{
+	text-align: center;
+	width: 100%;
+	font-size: 0px;
+	line-height: 0px;
+	padding-top: 70px;
+}
+	.b-card{
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		background-color: #FFF;
+		border-radius: 5px;
+		margin-right: 30px;
+		text-align: center;
+		width: calc( (81.4% - 60px) / 3 );
+		margin-bottom: 30px;
+		height: 150px;
+		text-decoration: none;
+		color: #505050;
+	}
+		.b-card:hover{
+			color: #000;	
+		}
+	.b-card:nth-child(3n){
+		margin-right: 0px
+	}
+		.b-card img{
+			position: absolute;
+			left: 1px;
+			bottom: 1px;
+			z-index: 1;
+			max-height: 100%;
+		    filter: url(../js/filters.svg#grayscale);
+		    filter: gray;
+		    -webkit-filter: grayscale(0.9);
+		    opacity: 0.25;
+		    -webkit-transition: -webkit-filter 300ms ease-out, opacity 300ms ease-out;
+		       -moz-transition: -webkit-filter 300ms ease-out, opacity 300ms ease-out;
+		        -ms-transition: -webkit-filter 300ms ease-out, opacity 300ms ease-out;
+		       	 -o-transition: -webkit-filter 300ms ease-out, opacity 300ms ease-out;
+		    		transition: -webkit-filter 300ms ease-out, opacity 300ms ease-out;
+		}
+		.b-card:hover img{
+			opacity: 1;
+		    filter: none;
+			-webkit-filter: grayscale(0);
+		}
+		.b-card-text{
+			position: relative;
+			display: table;
+			height: 100%;
+			width: 100%;
+			z-index: 2;
+		}
+			.b-card p{
+				display: table-cell;
+				vertical-align: middle;
+				font-size: 15px;
+				line-height: 20px;
+				padding-bottom: 6px;
+				-webkit-transition: transform 300ms ease-out;
+				   -moz-transition: transform 300ms ease-out;
+				    -ms-transition: transform 300ms ease-out;
+				   	 -o-transition: transform 300ms ease-out;
+						transition: transform 300ms ease-out;
+			}
+				.b-card:hover p{
+					-webkit-transform: scale(1.05);
+					   -moz-transform: scale(1.05);
+					    -ms-transform: scale(1.05);
+					   	 -o-transform: scale(1.05);
+							transform: scale(1.05);
+				}
+				.b-card p b{
+					font-family: "DINPro-Medium";
+				}
+/* Cards ---------------------------------------------------------- Cards */
+
+.b-fixed-map{
+	position: fixed;
+	left: 50%;
+	margin-left: -220px;
+	width: calc(50% + 220px);
+	height: calc(100% - 60px);
+	overflow: scroll;
+	top: 60px;
+}
+	.b-fixed-map.dragged{
+		cursor: move;
+	}
+	.b-map-canvas{
+		padding: 10px 10px;
+		font-size: 0px;
+		line-height: 0px;
+	}
+		.b-map{
+			position: relative;
+			width: 0px;
+			font-size: 0px;
+			line-height: 0px;
+			display: inline-block;
+			vertical-align: top;
+			margin: 10px;
+		}
+		.b-map-4{
+			background-position: 50% 50%;
+			background-repeat: no-repeat;
+			background-image: url('../i/maps/plan-4.jpg');
+			background-size: contain;
+		}
+			.b-map img.b-back{
+				width: 100%;
+				opacity: 0;
+			}
 
 @media (-webkit-min-device-pixel-ratio: 1.5) {
 	

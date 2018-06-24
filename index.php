@@ -16,6 +16,7 @@
 	<link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
 	<link rel="stylesheet" href="css/KitAnimate.css" type="text/css">
 	<link rel="stylesheet" href="css/layout.css" type="text/css">
+	<link rel="stylesheet" href="css/map.css" type="text/css">
 
 	<link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico">
 </head>
@@ -173,8 +174,67 @@
 					</div>
 				</form>
 			</div>
-			<div class="b-right-col custom-scrollbar tcenter">
-				<a href='#' class="b-round-btn b-top-right-btn b-round-orange-btn icon-map">показать на карте</a>
+			<div class="b-right-tab b-right-map custom-scrollbar hide">
+				<a href='#' class="b-round-btn b-top-right-btn b-round-orange-btn icon-list" data-block=".b-right-col">показать списком</a>
+				<div class="b-cards">
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-1.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 1<br><b>г. Барнаул</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-2.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 2<br><b>г. Бийск</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-3.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 3<br><b>г. Кемерово</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-4.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 4<br><b>г. Красноярск</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-5.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 5<br><b>г. Новокузнецк</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-6.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 6<br><b>г. Новосибирск</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-7.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 7<br><b>г. Омск</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-8.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 8<br><b>г. Томск</b><br>(140 человек)</p>
+						</div>
+					</a>
+					<a href="#" class="b-card">
+						<img src="i/filials/filial-9.svg" alt="">
+						<div class="b-card-text">
+							<p>Филиал 9<br><b>г. Чита</b><br>(140 человек)</p>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="b-right-tab b-right-col custom-scrollbar tcenter hide">
+				<a href='#' class="b-round-btn b-top-right-btn b-round-orange-btn icon-map" data-block=".b-right-map">показать на карте</a>
 				<div class="b-staff-list">
 					<div class="b-staff-count">Найдено 4 234 сотрудника</div>
 					<div class="b-input b-order-input line">
@@ -390,6 +450,17 @@
 					</div>
 				</div>
 			</div>
+			<div class="b-right-tab b-right-map b-fixed-map">
+				<div class="b-map-canvas">
+					<div class="b-map b-map-4">
+						<img src="i/maps/back-4.svg" class="b-back" alt="">
+						<div class="b-map-decor">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -402,6 +473,7 @@
 	<script type="text/javascript" src="js/jquery.maskedinput.min.js"></script>
 	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="js/KitAnimate.js"></script>
+	<script type="text/javascript" src="js/KitMap.js"></script>
 	<script type="text/javascript" src="js/KitSend.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 </body>

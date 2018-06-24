@@ -227,7 +227,7 @@ $(document).ready(function(){
             return rePhone.test(value);
         });
 
-        $(".ajax:not(.binded)").parents("form").each(function(){
+        $(".ajax:not(.binded), .no-ajax:not(.binded)").parents("form").each(function(){
             $(this).validate({
                 rules: {
                     email: 'email',
@@ -239,7 +239,7 @@ $(document).ready(function(){
             }
         });
 
-        $(".ajax:not(.binded)").parents("form").submit(function(){
+        $(".ajax:not(.binded), .no-ajax:not(.binded)").parents("form").submit(function(){
             if( $(this).find("input.error,select.error,textarea.error").length == 0 ){
                 var $this = $(this),
                     $cont = $($this.attr("data-block"));
@@ -248,6 +248,9 @@ $(document).ready(function(){
 
                 if( $this.attr("data-beforeAjax") && customHandlers[$this.attr("data-beforeAjax")] ){
                     customHandlers[$this.attr("data-beforeAjax")]($this);
+                }
+                if( $(this).find(".no-ajax").length ){
+                    return true;
                 }
 
                 $.ajax({
@@ -301,7 +304,7 @@ $(document).ready(function(){
             }
         });
 
-        $(".ajax:not(.binded), .ajax-popup:not(.binded)").addClass("binded");
+        $(".ajax:not(.binded), .ajax-popup:not(.binded), .no-ajax:not(.binded)").addClass("binded");
 
         bindCustomScrollbar();
         animateProgressBars();
@@ -335,7 +338,7 @@ $(document).ready(function(){
         bindForm();
     }
 
-    $("body").on("click", ".ajax", function(){
+    $("body").on("click", ".ajax, .no-ajax", function(){
         $(this).parents("form").submit();
         return false;
     });
@@ -385,6 +388,13 @@ $(document).ready(function(){
 
     $("body").on("click", ".b-remove-list", function(){
         $(this).parents("li").remove();
+
+        return false;
+    });
+
+    $("body").on("click", ".b-right-tab .b-top-right-btn", function(){
+        $(".b-right-tab").addClass("hide");
+        $($(this).attr("data-block")).removeClass("hide");
 
         return false;
     });
@@ -491,6 +501,12 @@ $(document).ready(function(){
         });
     }
     // Select with Search ------------------------------------------ Select with Search
+
+    // Map --------------------------------------------------------- Map
+    $(".b-fixed-map").KitMap({
+
+    });
+    // Map --------------------------------------------------------- Map
 
     bindForm();
 });
