@@ -103,18 +103,87 @@
 		width: 3.4%;
 	}
 	.b-map-4 .b-flower-5{
-		top: 3.5%;
-		left: 2.9%;
+		    top: 32.5%;
+    		left: 50.5%;
+    		-webkit-transform: scaleY(-1);
+			   -moz-transform: scaleY(-1);
+			    -ms-transform: scaleY(-1);
+			  	 -o-transform: scaleY(-1);
+			        transform: scaleY(-1);
 	}
 	.b-map-4 .b-flower-6{
-		top: 22%;
-		left: 2.9%;
+		top: 3%;
+    	left: 96.9%;
 	}
 	.b-map-4 .b-flower-7{
-		top: 47.6%;
-    	left: 3.1%;
+	    top: 28.4%;
+    	left: 97%;
 	}
 	.b-map-4 .b-flower-8{
-		top: 18.8%;
-   		left: 47.6%;
+		top: 47.1%;
+    	left: 97.2%;
+	}
+/*---*/
+	.b-map-4 .b-chair{
+		width: 3.6%;
+	}
+	.b-map-4 .b-chair-5{
+	    top: 2%;
+    	left: 55.3%;
+	}
+	.b-map-4 .b-chair-6{
+		top: 4.6%;
+        left: 49.9%;
+        -webkit-transform: rotateZ(270deg);
+  		   -moz-transform: rotateZ(270deg);
+            -ms-transform: rotateZ(270deg);
+          	 -o-transform: rotateZ(270deg);
+		        transform: rotateZ(270deg);
+	}
+	.b-map-4 .b-chair-7{
+		top: 45.7%;
+    	left: 50.4%;
+   		-webkit-transform: rotateZ(235deg);
+  		   -moz-transform: rotateZ(235deg);
+            -ms-transform: rotateZ(235deg);
+          	 -o-transform: rotateZ(235deg);
+		        transform: rotateZ(235deg);
+	}
+	.b-map-4 .b-chair-8{
+		top: 31.7%;
+    	left: 95.2%;
+   		-webkit-transform: rotateZ(125deg);
+  		   -moz-transform: rotateZ(125deg);
+            -ms-transform: rotateZ(125deg);
+          	 -o-transform: rotateZ(125deg);
+		        transform: rotateZ(125deg);
+	}
+/*---*/
+	.b-map-4 .b-cactus{
+		width: 3.2%;
+	}
+	.b-map-4 .b-cactus-3{
+		top: 2.3%;
+    	left: 52%;
+	}
+	.b-map-4 .b-cactus-4{
+    	top: 2.2%;
+   		left: 93.6%;
+	}
+/*---*/
+	.b-map-4 .b-sofa{
+		width: 3.5%;
+	}
+	.b-map-4 .b-sofa-3{
+    	top: 40.2%;
+    	left: 52.1%;
+	}
+	.b-map-4 .b-sofa-4{
+    	top: 17.65%;
+    	left: 95.7%;
+   		-webkit-transform: scale(-1, 1);
+  		   -moz-transform: scale(-1, 1);
+            -ms-transform: scale(-1, 1);
+          	 -o-transform: scale(-1, 1);
+		        transform: scale(-1, 1);
 	}
