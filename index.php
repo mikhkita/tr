@@ -450,7 +450,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="b-right-tab b-right-map b-fixed-map with-monitor">
+			<div class="b-right-tab b-right-map b-fixed-map">
 				<div class="b-map-canvas">
 					<div class="b-map b-map-4">
 						<img src="i/maps/back-4.svg" class="b-back" alt="">
@@ -484,318 +484,4590 @@
 						<div class="b-map-tables">
 							<div class="b-map-table-group two-cols s-1 g-1">
 								<div class="up">
-									<div class="b-map-table t-1"></div>
-									<div class="b-map-table t-2"></div>
+									<div class="b-map-table t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-1.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-2.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-7"></div>
-									<div class="b-map-table t-8"></div>
+									<div class="b-map-table t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-1 g-2">
 								<div class="up">
-									<div class="b-map-table t-3"></div>
-									<div class="b-map-table t-4"></div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-9"></div>
-									<div class="b-map-table t-10"></div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-1 g-3">
 								<div class="up">
-									<div class="b-map-table t-5"></div>
-									<div class="b-map-table t-6"></div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-11"></div>
-									<div class="b-map-table t-12"></div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 
 							<div class="b-map-table-group three-cols s-1 g-4">
 								<div class="up">
-									<div class="b-map-table t-13"></div>
-									<div class="b-map-table t-14"></div>
-									<div class="b-map-table t-15"></div>
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-19"></div>
-									<div class="b-map-table t-20"></div>
-									<div class="b-map-table t-21"></div>
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-1 g-5">
 								<div class="up">
-									<div class="b-map-table t-16"></div>
-									<div class="b-map-table t-17"></div>
-									<div class="b-map-table t-18"></div>
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-22"></div>
-									<div class="b-map-table t-23"></div>
-									<div class="b-map-table t-24"></div>
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-1 g-6">
 								<div class="up">
-									<div class="b-map-table t-25"></div>
-									<div class="b-map-table t-26"></div>
-									<div class="b-map-table t-27"></div>
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-31"></div>
-									<div class="b-map-table t-32"></div>
-									<div class="b-map-table t-33"></div>
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-1 g-7">
 								<div class="up">
-									<div class="b-map-table t-28"></div>
-									<div class="b-map-table t-29"></div>
-									<div class="b-map-table t-30"></div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-34"></div>
-									<div class="b-map-table t-35"></div>
-									<div class="b-map-table t-36"></div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 
 							<div class="b-map-table-group two-cols s-2 g-1">
 								<div class="up">
-									<div class="b-map-table t-1"></div>
-									<div class="b-map-table t-2"></div>
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-7"></div>
-									<div class="b-map-table t-8"></div>
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-2 g-2">
 								<div class="up">
-									<div class="b-map-table t-3"></div>
-									<div class="b-map-table t-4"></div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-9"></div>
-									<div class="b-map-table t-10"></div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-2 g-3">
 								<div class="up">
-									<div class="b-map-table t-5"></div>
-									<div class="b-map-table t-6"></div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-11"></div>
-									<div class="b-map-table t-12"></div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-2 g-4">
 								<div class="up">
-									<div class="b-map-table t-13"></div>
-									<div class="b-map-table t-14"></div>
-									<div class="b-map-table t-15"></div>
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-19"></div>
-									<div class="b-map-table t-20"></div>
-									<div class="b-map-table t-21"></div>
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-2 g-5">
 								<div class="up">
-									<div class="b-map-table t-16"></div>
-									<div class="b-map-table t-17"></div>
-									<div class="b-map-table t-18"></div>
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-22"></div>
-									<div class="b-map-table t-23"></div>
-									<div class="b-map-table t-24"></div>
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-2 g-6">
 								<div class="up">
-									<div class="b-map-table t-25"></div>
-									<div class="b-map-table t-26"></div>
-									<div class="b-map-table t-27"></div>
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-31"></div>
-									<div class="b-map-table t-32"></div>
-									<div class="b-map-table t-33"></div>
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-2 g-7">
 								<div class="up">
-									<div class="b-map-table t-28"></div>
-									<div class="b-map-table t-29"></div>
-									<div class="b-map-table t-30"></div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-34"></div>
-									<div class="b-map-table t-35"></div>
-									<div class="b-map-table t-36"></div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 
 							<div class="b-map-table-group three-cols s-3 g-1">
 								<div class="up">
-									<div class="b-map-table t-1"></div>
-									<div class="b-map-table t-2"></div>
-									<div class="b-map-table t-3"></div>
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-7"></div>
-									<div class="b-map-table t-8"></div>
-									<div class="b-map-table t-9"></div>
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-3 g-2">
 								<div class="up">
-									<div class="b-map-table t-4"></div>
-									<div class="b-map-table t-5"></div>
-									<div class="b-map-table t-6"></div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-10"></div>
-									<div class="b-map-table t-11"></div>
-									<div class="b-map-table t-12"></div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-3 g-3">
 								<div class="up">
-									<div class="b-map-table t-13"></div>
-									<div class="b-map-table t-14"></div>
-									<div class="b-map-table t-15"></div>
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-19"></div>
-									<div class="b-map-table t-20"></div>
-									<div class="b-map-table t-21"></div>
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-3 g-4">
 								<div class="up">
-									<div class="b-map-table t-16"></div>
-									<div class="b-map-table t-17"></div>
-									<div class="b-map-table t-18"></div>
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-22"></div>
-									<div class="b-map-table t-23"></div>
-									<div class="b-map-table t-24"></div>
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-3 g-5">
 								<div class="up">
-									<div class="b-map-table t-25"></div>
-									<div class="b-map-table t-26"></div>
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-31"></div>
-									<div class="b-map-table t-32"></div>
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-3 g-6">
 								<div class="up">
-									<div class="b-map-table t-27"></div>
-									<div class="b-map-table t-28"></div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-33"></div>
-									<div class="b-map-table t-34"></div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-3 g-7">
 								<div class="up">
-									<div class="b-map-table t-29"></div>
-									<div class="b-map-table t-30"></div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-35"></div>
-									<div class="b-map-table t-36"></div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 
 							<div class="b-map-table-group two-cols s-4 g-1">
 								<div class="up">
-									<div class="b-map-table t-1"></div>
-									<div class="b-map-table t-2"></div>
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-7"></div>
-									<div class="b-map-table t-8"></div>
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-4 g-2">
 								<div class="up">
-									<div class="b-map-table t-3"></div>
-									<div class="b-map-table t-4"></div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-9"></div>
-									<div class="b-map-table t-10"></div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group two-cols s-4 g-3">
 								<div class="up">
-									<div class="b-map-table t-5"></div>
-									<div class="b-map-table t-6"></div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-11"></div>
-									<div class="b-map-table t-12"></div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-4 g-4">
 								<div class="up">
-									<div class="b-map-table t-13"></div>
-									<div class="b-map-table t-14"></div>
-									<div class="b-map-table t-15"></div>
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-19"></div>
-									<div class="b-map-table t-20"></div>
-									<div class="b-map-table t-21"></div>
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-4 g-5">
 								<div class="up">
-									<div class="b-map-table t-16"></div>
-									<div class="b-map-table t-17"></div>
-									<div class="b-map-table t-18"></div>
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-22"></div>
-									<div class="b-map-table t-23"></div>
-									<div class="b-map-table t-24"></div>
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-4 g-6">
 								<div class="up">
-									<div class="b-map-table t-25"></div>
-									<div class="b-map-table t-26"></div>
-									<div class="b-map-table t-27"></div>
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-31"></div>
-									<div class="b-map-table t-32"></div>
-									<div class="b-map-table t-33"></div>
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 							<div class="b-map-table-group three-cols s-4 g-7">
 								<div class="up">
-									<div class="b-map-table t-28"></div>
-									<div class="b-map-table t-29"></div>
-									<div class="b-map-table t-30"></div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 								<div class="down">
-									<div class="b-map-table t-34"></div>
-									<div class="b-map-table t-35"></div>
-									<div class="b-map-table t-36"></div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="b-map b-map-4" seat>
+						<img src="i/maps/back-4.svg" class="b-back" alt="">
+						<div class="b-map-decor">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-3">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-4">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-1">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-2">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-3">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-4">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-1">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-2">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-1">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-2">
+							
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-5">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-6">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-7">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-8">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-5">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-6">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-7">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-8">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-3">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-4">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-3">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-4">
+						</div>
+						<div class="b-map-tables">
+							<div class="b-map-table-group two-cols s-1 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-1 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-2 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-3 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-4 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="b-map b-map-4" seat>
+						<img src="i/maps/back-4.svg" class="b-back" alt="">
+						<div class="b-map-decor">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-3">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-4">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-1">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-2">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-3">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-4">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-1">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-2">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-1">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-2">
+							
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-5">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-6">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-7">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-8">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-5">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-6">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-7">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-8">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-3">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-4">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-3">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-4">
+						</div>
+						<div class="b-map-tables">
+							<div class="b-map-table-group two-cols s-1 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-1 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-2 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-3 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-4 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="b-map b-map-4" seat>
+						<img src="i/maps/back-4.svg" class="b-back" alt="">
+						<div class="b-map-decor">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-3">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-4">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-1">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-2">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-3">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-4">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-1">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-2">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-1">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-2">
+							
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-5">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-6">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-7">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-8">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-5">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-6">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-7">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-8">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-3">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-4">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-3">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-4">
+						</div>
+						<div class="b-map-tables">
+							<div class="b-map-table-group two-cols s-1 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-1 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-2 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-3 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-4 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="b-map b-map-4" seat>
+						<img src="i/maps/back-4.svg" class="b-back" alt="">
+						<div class="b-map-decor">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-3">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-4">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-1">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-2">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-3">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-4">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-1">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-2">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-1">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-2">
+							
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-5">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-6">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-7">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-8">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-5">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-6">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-7">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-8">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-3">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-4">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-3">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-4">
+						</div>
+						<div class="b-map-tables">
+							<div class="b-map-table-group two-cols s-1 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-1 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-2 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-3 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-4 g-1">
+								<div class="up">
+									<div class="b-map-table seat t-1">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-2">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-7">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-8">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-2">
+								<div class="up">
+									<div class="b-map-table seat t-3">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-4">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-9">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-10">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-3">
+								<div class="up">
+									<div class="b-map-table seat t-5">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-6">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-11">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-12">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-4">
+								<div class="up">
+									<div class="b-map-table seat t-13">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-14">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-15">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-19">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-20">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-21">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-5">
+								<div class="up">
+									<div class="b-map-table seat t-16">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-17">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-18">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-22">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-23">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-24">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-6">
+								<div class="up">
+									<div class="b-map-table seat t-25">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-26">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-27">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-31">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-32">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-33">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-7">
+								<div class="up">
+									<div class="b-map-table seat t-28">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-29">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-30">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="down">
+									<div class="b-map-table seat t-34">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-35">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
+									<div class="b-map-table seat t-36">
+										<div class="b-avatar" style="background: #E94B35;">
+											<img src="i/avatar-3.jpg" alt="">
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
