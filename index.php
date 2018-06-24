@@ -458,6 +458,9 @@
 							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
 							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
 						</div>
+						<div class="b-map-tables">
+							
+						</div>
 					</div>
 				</div>
 			</div>
