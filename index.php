@@ -457,6 +457,29 @@
 						<div class="b-map-decor">
 							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-1">
 							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-3">
+							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-4">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-1">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-2">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-3">
+							<img src="i/maps/blue-chair.svg" class="b-chair b-chair-4">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-1">
+							<img src="i/maps/blue-cactus.svg" class="b-cactus b-cactus-2">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-1">
+							<img src="i/maps/blue-sofa.svg" class="b-sofa b-sofa-2">
+							
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-5">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-6">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-7">
+							<img src="i/maps/orange-flower.svg" class="b-flower b-flower-8">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-5">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-6">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-7">
+							<img src="i/maps/orange-chair.svg" class="b-chair b-chair-8">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-3">
+							<img src="i/maps/orange-cactus.svg" class="b-cactus b-cactus-4">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-3">
+							<img src="i/maps/orange-sofa.svg" class="b-sofa b-sofa-4">
 						</div>
 						<div class="b-map-tables">
 							
