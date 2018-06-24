@@ -41,7 +41,7 @@
        		margin : 20,
        		startX : 0,
        		startY : 0,
-       		zoom : 3,
+       		zoom : 1,
        		startScrollTop : 0,
 			startScrollLeft : 0,
 			isTouch : ('ontouchstart' in document.documentElement),
@@ -61,6 +61,8 @@
 				},
 
 				initHandlers : function(){
+					$(window).resize(function(){ _.resizeHandler(); });
+
 					_.on( _.isTouch ? "touchstart" : "mousedown", function(y){
 						e = _.isTouch ? y.originalEvent.touches[0] : y;
 						_.dragStart = true;		
@@ -106,6 +108,16 @@
 						// if (_.wasDrag) return false;
 					});	
 
+					$(".b-map-zoom-in").click(function(){
+						_.changeZoom(1);
+						return false;
+					});
+
+					$(".b-map-zoom-out").click(function(){
+						_.changeZoom(-1);
+						return false;
+					});
+
 					// $("body").on("click", "a", function(){
 					// 	if( _.wasDrag ){ return false;}
 					// });
@@ -115,8 +127,24 @@
 					_.o.afterInit(_);
 				},
 
+				changeZoom : function(side){
+					if( _.zoom + side > 0 && _.hasClass("hide") ){
+						$(".b-right-tab").addClass("hide");
+						$(".b-fixed-map").removeClass("hide");
+						_.calcWidth();
+					}else if( _.zoom + side == 0 ){
+						$(".b-right-tab").addClass("hide");
+						$(".b-right-map").removeClass("hide");
+					}else{
+						_.scrollTop( _.scrollTop()/_.zoom*(_.zoom + side) );
+						_.scrollLeft( _.scrollLeft()/_.zoom*(_.zoom + side) );
+						_.zoom += side;
+						_.calcWidth();
+					}
+				},
+
 				calcWidth : function(){
-					var width = ($(".b-header .b-block").width() - $(".b-left-col").width() - _.margin)*_.zoom,
+					var width = ($(".b-header .b-block").width() - $(".b-left-col").width() - $(".b-left-col").css("padding-left").replace(/\D+/g,"")*1 - $(".b-left-col").css("padding-right").replace(/\D+/g,"")*1 - _.margin)*_.zoom,
 						cols = Math.ceil(Math.sqrt(_.find(".b-map").length)),
 						canvasWidth = width*cols+(cols+1)*_.margin;
 

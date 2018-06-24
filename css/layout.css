@@ -544,18 +544,24 @@ input:-moz-placeholder {
 	position: absolute;
 	right: 20px;
 	top: 20px;
+	z-index: 10;
 }
-.b-right-map .b-top-right-btn{
+/*.b-right-map .b-top-right-btn{
 	position: fixed;
 	top: 80px;
 	right: 50%;
 	margin-right: -620px;
 	z-index: 100;
-}
+}*/
 	.b-top-right-btn.icon-right-arrow:before{
 		font-size: 12px;
 		top: 14px;
 	}
+.b-top-right-btn.b-top-right-btn-fixed{
+	position: fixed;
+	right: 20px;
+	top: 80px;
+}
 /* Buttons -------------------------------------------------------- Buttons */
 
 /* Header --------------------------------------------------------- Header */
@@ -1404,6 +1410,40 @@ input:-moz-placeholder {
 				}
 /* Cards ---------------------------------------------------------- Cards */
 
+.b-map-buttons{
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	z-index: 10;
+}
+	.b-map-btn{
+		display: inline-block;
+		vertical-align: top;
+		border-radius: 100px;
+		width: 40px;
+		height: 40px;
+		background-color: #FFF;
+		text-decoration: none;
+		text-align: center;
+		margin-left: 10px;
+	}
+	.b-map-zoom-out{
+		
+	}
+		.b-map-zoom-out:before{
+			color: #E37828;
+			font-size: 2px;
+			width: 100%;
+			line-height: 40px;
+		}
+	.b-map-zoom-in{
+
+	}
+		.b-map-zoom-in:before{
+			color: #E37828;
+			width: 100%;
+			line-height: 42px;
+		}
 .b-fixed-map{
 	position: fixed;
 	left: 50%;
@@ -1433,12 +1473,12 @@ input:-moz-placeholder {
 		.b-map-4{
 			background-position: 50% 50%;
 			background-repeat: no-repeat;
-			background-image: url('../i/maps/plan-4.jpg');
+			/*background-image: url('../i/maps/plan-4.jpg');*/
 			background-size: contain;
 		}
 			.b-map img.b-back{
 				width: 100%;
-				opacity: 0;
+				/*opacity: 0;*/
 			}
 .b-map-tables{
 	position: absolute;
@@ -1616,14 +1656,11 @@ input:-moz-placeholder {
 					background-repeat: no-repeat;
 					background-size: 80%;
 				}
-				.up .b-map-table:after{
+				.zoom-1 .up .b-map-table:after{
 					background-image: url('../i/maps/monitor-up.svg');
 				}
-				.down .b-map-table:after{
+				.zoom-1 .down .b-map-table:after{
 					background-image: url('../i/maps/monitor-down.svg');
-				}
-				.zoom-1 .b-map-table:after{
-					background-image: none;
 				}
 				.b-map-table.seat:before{
 					position: absolute;
@@ -1679,7 +1716,6 @@ input:-moz-placeholder {
 				width: 31.6%;
 			}
 				.b-map-table .b-avatar{
-					display: none;
 					position: absolute;
 					left: 17%;
 					top: -133%;
@@ -1698,6 +1734,9 @@ input:-moz-placeholder {
 					.zoom-1 .b-map-table .b-avatar img{
 						border-width: 1px;
 					}
+.b-map-decor{
+	/*display: none;*/
+}
 
 @media (-webkit-min-device-pixel-ratio: 1.5) {
 	

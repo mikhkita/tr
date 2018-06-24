@@ -392,9 +392,15 @@ $(document).ready(function(){
         return false;
     });
 
-    $("body").on("click", ".b-right-tab .b-top-right-btn", function(){
+    $("body").on("click", ".b-top-right-btn", function(){
         $(".b-right-tab").addClass("hide");
         $($(this).attr("data-block")).removeClass("hide");
+
+        if( !$(".b-right-col").hasClass("hide") ){
+            $(".b-map-nav").hide();
+        }else {
+            $(".b-map-nav").show();
+        }
 
         return false;
     });
@@ -503,9 +509,11 @@ $(document).ready(function(){
     // Select with Search ------------------------------------------ Select with Search
 
     // Map --------------------------------------------------------- Map
-    $(".b-fixed-map").KitMap({
-
+    $(".b-card").click(function(){
+        $(".b-right-tab").addClass("hide");
+        $(".b-fixed-map").removeClass("hide");
     });
+    $(".b-fixed-map").KitMap();
     // Map --------------------------------------------------------- Map
 
     bindForm();
