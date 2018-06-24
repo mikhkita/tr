@@ -450,7 +450,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="b-right-tab b-right-map b-fixed-map">
+			<div class="b-right-tab b-right-map b-fixed-map with-monitor">
 				<div class="b-map-canvas">
 					<div class="b-map b-map-4">
 						<img src="i/maps/back-4.svg" class="b-back" alt="">
@@ -459,7 +459,322 @@
 							<img src="i/maps/blue-flower.svg" class="b-flower b-flower-2">
 						</div>
 						<div class="b-map-tables">
-							
+							<div class="b-map-table-group two-cols s-1 g-1">
+								<div class="up">
+									<div class="b-map-table t-1"></div>
+									<div class="b-map-table t-2"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-7"></div>
+									<div class="b-map-table t-8"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-2">
+								<div class="up">
+									<div class="b-map-table t-3"></div>
+									<div class="b-map-table t-4"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-9"></div>
+									<div class="b-map-table t-10"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-1 g-3">
+								<div class="up">
+									<div class="b-map-table t-5"></div>
+									<div class="b-map-table t-6"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-11"></div>
+									<div class="b-map-table t-12"></div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-1 g-4">
+								<div class="up">
+									<div class="b-map-table t-13"></div>
+									<div class="b-map-table t-14"></div>
+									<div class="b-map-table t-15"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-19"></div>
+									<div class="b-map-table t-20"></div>
+									<div class="b-map-table t-21"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-5">
+								<div class="up">
+									<div class="b-map-table t-16"></div>
+									<div class="b-map-table t-17"></div>
+									<div class="b-map-table t-18"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-22"></div>
+									<div class="b-map-table t-23"></div>
+									<div class="b-map-table t-24"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-6">
+								<div class="up">
+									<div class="b-map-table t-25"></div>
+									<div class="b-map-table t-26"></div>
+									<div class="b-map-table t-27"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-31"></div>
+									<div class="b-map-table t-32"></div>
+									<div class="b-map-table t-33"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-1 g-7">
+								<div class="up">
+									<div class="b-map-table t-28"></div>
+									<div class="b-map-table t-29"></div>
+									<div class="b-map-table t-30"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-34"></div>
+									<div class="b-map-table t-35"></div>
+									<div class="b-map-table t-36"></div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-2 g-1">
+								<div class="up">
+									<div class="b-map-table t-1"></div>
+									<div class="b-map-table t-2"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-7"></div>
+									<div class="b-map-table t-8"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-2">
+								<div class="up">
+									<div class="b-map-table t-3"></div>
+									<div class="b-map-table t-4"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-9"></div>
+									<div class="b-map-table t-10"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-2 g-3">
+								<div class="up">
+									<div class="b-map-table t-5"></div>
+									<div class="b-map-table t-6"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-11"></div>
+									<div class="b-map-table t-12"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-4">
+								<div class="up">
+									<div class="b-map-table t-13"></div>
+									<div class="b-map-table t-14"></div>
+									<div class="b-map-table t-15"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-19"></div>
+									<div class="b-map-table t-20"></div>
+									<div class="b-map-table t-21"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-5">
+								<div class="up">
+									<div class="b-map-table t-16"></div>
+									<div class="b-map-table t-17"></div>
+									<div class="b-map-table t-18"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-22"></div>
+									<div class="b-map-table t-23"></div>
+									<div class="b-map-table t-24"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-6">
+								<div class="up">
+									<div class="b-map-table t-25"></div>
+									<div class="b-map-table t-26"></div>
+									<div class="b-map-table t-27"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-31"></div>
+									<div class="b-map-table t-32"></div>
+									<div class="b-map-table t-33"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-2 g-7">
+								<div class="up">
+									<div class="b-map-table t-28"></div>
+									<div class="b-map-table t-29"></div>
+									<div class="b-map-table t-30"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-34"></div>
+									<div class="b-map-table t-35"></div>
+									<div class="b-map-table t-36"></div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group three-cols s-3 g-1">
+								<div class="up">
+									<div class="b-map-table t-1"></div>
+									<div class="b-map-table t-2"></div>
+									<div class="b-map-table t-3"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-7"></div>
+									<div class="b-map-table t-8"></div>
+									<div class="b-map-table t-9"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-2">
+								<div class="up">
+									<div class="b-map-table t-4"></div>
+									<div class="b-map-table t-5"></div>
+									<div class="b-map-table t-6"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-10"></div>
+									<div class="b-map-table t-11"></div>
+									<div class="b-map-table t-12"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-3">
+								<div class="up">
+									<div class="b-map-table t-13"></div>
+									<div class="b-map-table t-14"></div>
+									<div class="b-map-table t-15"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-19"></div>
+									<div class="b-map-table t-20"></div>
+									<div class="b-map-table t-21"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-3 g-4">
+								<div class="up">
+									<div class="b-map-table t-16"></div>
+									<div class="b-map-table t-17"></div>
+									<div class="b-map-table t-18"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-22"></div>
+									<div class="b-map-table t-23"></div>
+									<div class="b-map-table t-24"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-5">
+								<div class="up">
+									<div class="b-map-table t-25"></div>
+									<div class="b-map-table t-26"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-31"></div>
+									<div class="b-map-table t-32"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-6">
+								<div class="up">
+									<div class="b-map-table t-27"></div>
+									<div class="b-map-table t-28"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-33"></div>
+									<div class="b-map-table t-34"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-3 g-7">
+								<div class="up">
+									<div class="b-map-table t-29"></div>
+									<div class="b-map-table t-30"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-35"></div>
+									<div class="b-map-table t-36"></div>
+								</div>
+							</div>
+
+							<div class="b-map-table-group two-cols s-4 g-1">
+								<div class="up">
+									<div class="b-map-table t-1"></div>
+									<div class="b-map-table t-2"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-7"></div>
+									<div class="b-map-table t-8"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-2">
+								<div class="up">
+									<div class="b-map-table t-3"></div>
+									<div class="b-map-table t-4"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-9"></div>
+									<div class="b-map-table t-10"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group two-cols s-4 g-3">
+								<div class="up">
+									<div class="b-map-table t-5"></div>
+									<div class="b-map-table t-6"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-11"></div>
+									<div class="b-map-table t-12"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-4">
+								<div class="up">
+									<div class="b-map-table t-13"></div>
+									<div class="b-map-table t-14"></div>
+									<div class="b-map-table t-15"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-19"></div>
+									<div class="b-map-table t-20"></div>
+									<div class="b-map-table t-21"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-5">
+								<div class="up">
+									<div class="b-map-table t-16"></div>
+									<div class="b-map-table t-17"></div>
+									<div class="b-map-table t-18"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-22"></div>
+									<div class="b-map-table t-23"></div>
+									<div class="b-map-table t-24"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-6">
+								<div class="up">
+									<div class="b-map-table t-25"></div>
+									<div class="b-map-table t-26"></div>
+									<div class="b-map-table t-27"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-31"></div>
+									<div class="b-map-table t-32"></div>
+									<div class="b-map-table t-33"></div>
+								</div>
+							</div>
+							<div class="b-map-table-group three-cols s-4 g-7">
+								<div class="up">
+									<div class="b-map-table t-28"></div>
+									<div class="b-map-table t-29"></div>
+									<div class="b-map-table t-30"></div>
+								</div>
+								<div class="down">
+									<div class="b-map-table t-34"></div>
+									<div class="b-map-table t-35"></div>
+									<div class="b-map-table t-36"></div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
