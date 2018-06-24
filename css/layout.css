@@ -1433,12 +1433,12 @@ input:-moz-placeholder {
 		.b-map-4{
 			background-position: 50% 50%;
 			background-repeat: no-repeat;
-			/*background-image: url('../i/maps/plan-4.jpg');*/
+			background-image: url('../i/maps/plan-4.jpg');
 			background-size: contain;
 		}
 			.b-map img.b-back{
 				width: 100%;
-				/*opacity: 0;*/
+				opacity: 0;
 			}
 .b-map-tables{
 	position: absolute;
@@ -1679,6 +1679,7 @@ input:-moz-placeholder {
 				width: 31.6%;
 			}
 				.b-map-table .b-avatar{
+					display: none;
 					position: absolute;
 					left: 17%;
 					top: -133%;
