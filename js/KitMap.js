@@ -41,7 +41,7 @@
        		margin : 20,
        		startX : 0,
        		startY : 0,
-       		zoom : 5,
+       		zoom : 2,
        		startScrollTop : 0,
 			startScrollLeft : 0,
 			isTouch : ('ontouchstart' in document.documentElement),
@@ -66,8 +66,8 @@
 						_.dragStart = true;		
 						_.addClass("dragged");
 
-						_.startX = e.pageX;
 						_.startY = e.pageY;
+						_.startX = e.pageX;
 
 						_.startScrollTop = _.scrollTop();
 						_.startScrollLeft = _.scrollLeft();
@@ -76,10 +76,23 @@
 					$(document).on( _.isTouch ? "touchmove" : "mousemove", function(y){
 						if( !_.dragStart ) return true;
 
+						var currentScrollTop = _.startScrollTop + _.startY - e.pageY,
+							currentScrollLeft = _.startScrollLeft + _.startX - e.pageX;
+
 						e = _.isTouch ? y.originalEvent.touches[0] : y;
 
-						_.scrollTop(_.startScrollTop + _.startY - e.pageY);
-						_.scrollLeft(_.startScrollLeft + _.startX - e.pageX);
+						if( currentScrollTop < 0 ){
+							_.startY = e.pageY;
+							_.startScrollTop = 0;
+						}
+
+						if( currentScrollLeft < 0 ){
+							_.startX = e.pageX;
+							_.startScrollLeft = 0;
+						}
+
+						_.scrollTop(currentScrollTop);
+						_.scrollLeft(currentScrollLeft);
 
 						return false;
 					});	
@@ -104,7 +117,7 @@
 
 				calcWidth : function(){
 					var width = ($(".b-header .b-block").width() - $(".b-left-col").width() - _.margin)*_.zoom,
-						cols = Math.ceil(Math.sqrt(_.find(".b-map-item").length)),
+						cols = Math.ceil(Math.sqrt(_.find(".b-map").length)),
 						canvasWidth = width*cols+(cols+1)*_.margin;
 
 					_.canvas.css("width", canvasWidth);
