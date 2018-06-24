@@ -41,7 +41,7 @@
        		margin : 20,
        		startX : 0,
        		startY : 0,
-       		zoom : 2,
+       		zoom : 5,
        		startScrollTop : 0,
 			startScrollLeft : 0,
 			isTouch : ('ontouchstart' in document.documentElement),
