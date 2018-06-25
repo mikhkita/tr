@@ -306,6 +306,10 @@ $(document).ready(function(){
 
         $(".ajax:not(.binded), .ajax-popup:not(.binded), .no-ajax:not(.binded)").addClass("binded");
 
+        $("img").mousedown(function(){
+            event.preventDefault();
+        });
+
         bindCustomScrollbar();
         animateProgressBars();
         bindCustomSelect();
@@ -388,19 +392,6 @@ $(document).ready(function(){
 
     $("body").on("click", ".b-remove-list", function(){
         $(this).parents("li").remove();
-
-        return false;
-    });
-
-    $("body").on("click", ".b-top-right-btn", function(){
-        $(".b-right-tab").addClass("hide");
-        $($(this).attr("data-block")).removeClass("hide");
-
-        if( !$(".b-right-col").hasClass("hide") ){
-            $(".b-map-nav").hide();
-        }else {
-            $(".b-map-nav").show();
-        }
 
         return false;
     });
@@ -509,10 +500,6 @@ $(document).ready(function(){
     // Select with Search ------------------------------------------ Select with Search
 
     // Map --------------------------------------------------------- Map
-    $(".b-card").click(function(){
-        $(".b-right-tab").addClass("hide");
-        $(".b-fixed-map").removeClass("hide");
-    });
     $(".b-fixed-map").KitMap();
     // Map --------------------------------------------------------- Map
 

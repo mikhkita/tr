@@ -175,7 +175,7 @@
 				</form>
 			</div>
 			<div class="b-right-tab b-right-col custom-scrollbar tcenter hide">
-				<a href='#' class="b-round-btn b-top-right-btn b-round-orange-btn icon-map" data-block=".b-right-map">показать на карте</a>
+				<a href='#' class="b-round-btn b-top-right-btn b-round-orange-btn icon-map" data-map="1" data-block=".b-right-map">показать на карте</a>
 				<div class="b-staff-list">
 					<div class="b-staff-count">Найдено 4 234 сотрудника</div>
 					<div class="b-input b-order-input line">
@@ -509,11 +509,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-1.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-2.jpg" alt="">
 										</div>
+										<span class="grey icon-file"></span>
+										<span class="grey icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -521,11 +525,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -536,6 +544,8 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -543,6 +553,8 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table seat t-10"></div>
 								</div>
@@ -553,11 +565,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -572,16 +588,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -589,16 +611,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -608,12 +636,16 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table seat t-17"></div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -623,6 +655,8 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -632,12 +666,16 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table seat t-26"></div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -645,16 +683,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -664,16 +708,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -681,12 +731,16 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table seat t-35"></div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -697,11 +751,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -709,11 +767,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -723,11 +785,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -735,11 +801,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -749,11 +819,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -761,11 +835,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -775,16 +853,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -792,16 +876,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -811,16 +901,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -828,16 +924,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -847,16 +949,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -864,16 +972,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -883,16 +997,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -900,16 +1020,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -920,16 +1046,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-3">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -937,16 +1069,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-9">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -956,16 +1094,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-5">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -973,16 +1117,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-11">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -992,16 +1142,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1009,16 +1165,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1028,16 +1190,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1045,16 +1213,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1064,11 +1238,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1076,11 +1254,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1090,11 +1272,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-28">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1102,11 +1288,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-34">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1116,11 +1306,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1128,11 +1322,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1143,11 +1341,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1155,11 +1357,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1169,11 +1375,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1181,11 +1391,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1195,11 +1409,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1207,11 +1425,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1221,16 +1443,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1238,16 +1466,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1257,16 +1491,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1274,16 +1514,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1293,16 +1539,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1310,16 +1562,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1329,16 +1587,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1346,17 +1610,49 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
+								</div>
+							</div>
+						</div>
+						<div class="b-map-skill-groups">
+							<div class="b-map-skill-group b-map-skill-group-1">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-2">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-3">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-4">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
 								</div>
 							</div>
 						</div>
@@ -1397,11 +1693,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1409,11 +1709,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1423,11 +1727,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1435,11 +1743,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1449,11 +1761,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1461,11 +1777,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1476,16 +1796,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1493,16 +1819,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1512,16 +1844,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1529,16 +1867,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1548,16 +1892,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1565,16 +1915,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1584,16 +1940,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1601,16 +1963,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1621,11 +1989,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1633,11 +2005,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1647,11 +2023,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1659,11 +2039,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1673,11 +2057,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1685,11 +2073,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1699,16 +2091,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1716,16 +2114,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1735,16 +2139,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1752,16 +2162,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1771,16 +2187,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1788,16 +2210,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1807,16 +2235,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1824,16 +2258,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1844,16 +2284,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-3">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1861,16 +2307,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-9">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1880,16 +2332,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-5">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1897,16 +2355,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-11">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1916,16 +2380,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1933,16 +2403,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1952,16 +2428,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -1969,16 +2451,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -1988,11 +2476,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2000,11 +2492,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2014,11 +2510,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-28">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2026,11 +2526,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-34">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2040,11 +2544,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2052,11 +2560,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2067,11 +2579,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2079,11 +2595,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2093,11 +2613,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2105,11 +2629,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2119,11 +2647,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2131,11 +2663,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2145,16 +2681,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2162,16 +2704,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2181,16 +2729,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2198,16 +2752,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2217,16 +2777,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2234,16 +2800,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2253,16 +2825,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2270,17 +2848,51 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
+								</div>
+							</div>
+						</div>
+						<span class="icon-file"></span>
+										<span class="icon-call"></span>
+						<div class="b-map-skill-groups">
+							<div class="b-map-skill-group b-map-skill-group-1">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-2">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-3">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-4">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
 								</div>
 							</div>
 						</div>
@@ -2321,11 +2933,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2333,11 +2949,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2347,11 +2967,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2359,11 +2983,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2373,11 +3001,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2385,11 +3017,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2400,16 +3036,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2417,16 +3059,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2436,16 +3084,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2453,16 +3107,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2472,16 +3132,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2489,16 +3155,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2508,16 +3180,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2525,16 +3203,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2545,11 +3229,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2557,11 +3245,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2571,11 +3263,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2583,11 +3279,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2597,11 +3297,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2609,11 +3313,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2623,16 +3331,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2640,16 +3354,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2659,16 +3379,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2676,16 +3402,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2695,16 +3427,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2712,16 +3450,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2731,16 +3475,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2748,16 +3498,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2768,16 +3524,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-3">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2785,16 +3547,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-9">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2804,16 +3572,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-5">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2821,16 +3595,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-11">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2840,16 +3620,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2857,16 +3643,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2876,16 +3668,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2893,16 +3691,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2912,11 +3716,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2924,11 +3732,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2938,11 +3750,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-28">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2950,11 +3766,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-34">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2964,11 +3784,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -2976,11 +3800,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -2991,11 +3819,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3003,11 +3835,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3017,11 +3853,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3029,11 +3869,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3043,11 +3887,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3055,11 +3903,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3069,16 +3921,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3086,16 +3944,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3105,16 +3969,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3122,16 +3992,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3141,16 +4017,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3158,16 +4040,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3177,16 +4065,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3194,17 +4088,51 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
+								</div>
+							</div>
+						</div>
+						<span class="icon-file"></span>
+										<span class="icon-call"></span>
+						<div class="b-map-skill-groups">
+							<div class="b-map-skill-group b-map-skill-group-1">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-2">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-3">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-4">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
 								</div>
 							</div>
 						</div>
@@ -3245,11 +4173,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3257,11 +4189,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3271,11 +4207,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3283,11 +4223,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3297,11 +4241,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3309,11 +4257,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3324,16 +4276,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3341,16 +4299,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3360,16 +4324,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3377,16 +4347,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3396,16 +4372,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3413,16 +4395,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3432,16 +4420,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3449,16 +4443,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3469,11 +4469,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3481,11 +4485,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3495,11 +4503,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3507,11 +4519,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3521,11 +4537,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3533,11 +4553,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3547,16 +4571,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3564,16 +4594,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3583,16 +4619,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3600,16 +4642,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3619,16 +4667,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3636,16 +4690,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3655,16 +4715,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3672,16 +4738,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3692,16 +4764,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-3">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3709,16 +4787,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-9">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3728,16 +4812,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-5">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3745,16 +4835,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-11">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3764,16 +4860,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3781,16 +4883,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3800,16 +4908,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3817,16 +4931,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3836,11 +4956,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3848,11 +4972,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3862,11 +4990,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-28">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3874,11 +5006,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-34">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3888,11 +5024,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3900,11 +5040,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3915,11 +5059,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3927,11 +5075,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3941,11 +5093,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3953,11 +5109,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3967,11 +5127,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -3979,11 +5143,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -3993,16 +5161,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4010,16 +5184,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4029,16 +5209,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4046,16 +5232,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4065,16 +5257,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4082,16 +5280,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4101,16 +5305,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4118,17 +5328,51 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
+								</div>
+							</div>
+						</div>
+						<span class="icon-file"></span>
+										<span class="icon-call"></span>
+						<div class="b-map-skill-groups">
+							<div class="b-map-skill-group b-map-skill-group-1">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-2">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-3">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-4">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
 								</div>
 							</div>
 						</div>
@@ -4169,11 +5413,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4181,11 +5429,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4195,11 +5447,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4207,11 +5463,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4221,11 +5481,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4233,11 +5497,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4248,16 +5516,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4265,16 +5539,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4284,16 +5564,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4301,16 +5587,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4320,16 +5612,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4337,16 +5635,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4356,16 +5660,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4373,16 +5683,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4393,11 +5709,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4405,11 +5725,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4419,11 +5743,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4431,11 +5759,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4445,11 +5777,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4457,11 +5793,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4471,16 +5811,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4488,16 +5834,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4507,16 +5859,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4524,16 +5882,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4543,16 +5907,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4560,16 +5930,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4579,16 +5955,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4596,16 +5978,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4616,16 +6004,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-3">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4633,16 +6027,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-9">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4652,16 +6052,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-5">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4669,16 +6075,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-11">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4688,16 +6100,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4705,16 +6123,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4724,16 +6148,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4741,16 +6171,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4760,11 +6196,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4772,11 +6212,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4786,11 +6230,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-28">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4798,11 +6246,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-34">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4812,11 +6264,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4824,11 +6280,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4839,11 +6299,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-2">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4851,11 +6315,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-8">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4865,11 +6333,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-4">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4877,11 +6349,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-10">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4891,11 +6367,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-6">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4903,11 +6383,15 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-12">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4917,16 +6401,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-14">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-15">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4934,16 +6424,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-20">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-21">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4953,16 +6449,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-17">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-18">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -4970,16 +6472,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-23">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-24">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -4989,16 +6497,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-26">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-27">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -5006,16 +6520,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-32">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-33">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 							</div>
@@ -5025,16 +6545,22 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-29">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-30">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 								</div>
 								<div class="down">
@@ -5042,17 +6568,49 @@
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-35">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
 									<div class="b-map-table t-36">
 										<div class="b-avatar" style="background: #E94B35;">
 											<img src="i/avatar-3.jpg" alt="">
 										</div>
+										<span class="icon-file"></span>
+										<span class="icon-call"></span>
 									</div>
+								</div>
+							</div>
+						</div>
+						<div class="b-map-skill-groups">
+							<div class="b-map-skill-group b-map-skill-group-1">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-2">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-3">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
+								</div>
+							</div>
+							<div class="b-map-skill-group b-map-skill-group-4">
+								<div class="b-map-skill-group__link">
+									<h3>Скилл-группа 1</h3>
+									<p>(27 человек)</p>
 								</div>
 							</div>
 						</div>

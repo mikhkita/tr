@@ -1468,7 +1468,7 @@ input:-moz-placeholder {
 			line-height: 0px;
 			display: inline-block;
 			vertical-align: top;
-			margin: 10px;
+			margin: 30px;
 		}
 		.b-map-4{
 			background-position: 50% 50%;
@@ -1486,6 +1486,7 @@ input:-moz-placeholder {
 	top: 0px;
 	width: 100%;
 	height: 100%;
+	z-index: 2;
 	/*opacity: 0.3;*/
 }
 	.b-map-table-group{
@@ -1650,6 +1651,7 @@ input:-moz-placeholder {
 				display: inline-block;
 				vertical-align: top;
 				position: relative;
+				text-align: center;
 			}
 				.b-map-table:after{
 					background-position: 50% 50%;
@@ -1730,13 +1732,102 @@ input:-moz-placeholder {
 					.b-map-table .b-avatar img{
 						width: 100%;
 						height: auto;
+						-webkit-user-select: none;
+						-moz-user-select: none;
 					}
 					.zoom-1 .b-map-table .b-avatar img{
 						border-width: 1px;
 					}
+		.b-map-table{
+
+		}
+			.b-map-table span{
+				display: none;
+			}
+			.zoom-2 .b-map-table span{
+				position: relative;
+				z-index: 11;
+				display: inline-block;
+				margin: 9px 6px;
+			}
+				.b-map-table span.icon-file:before{
+					font-size: 17px;
+					color: #E37828;
+				}
+				.b-map-table span.icon-call:before{
+					font-size: 17px;
+					color: #00A0DC;
+				}
+				.b-map-table span.grey:before{
+					color: #B3B3B3;
+				}
 .b-map-decor{
 	/*display: none;*/
 }
+.b-map-skill-groups{
+	opacity: 0;
+	z-index: 1;
+}
+.zoom-1 .b-map-skill-groups{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: block;
+	opacity: 1;
+	z-index: 3;
+}
+	.b-map-skill-group{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		width: 50%;
+		height: 50%;
+	}
+		.b-map-skill-group__link{
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			background-color: #FFF;
+			text-align: center;
+			box-shadow: 0 2px 5px 0 #B3B3B3;
+			text-decoration: none;
+			cursor: pointer;
+			padding: 9px 10px 6px;
+			width: 230px;
+			-webkit-transform: translate(-50%, -50%);
+			   -moz-transform: translate(-50%, -50%);
+			    -ms-transform: translate(-50%, -50%);
+			   	 -o-transform: translate(-50%, -50%);
+					transform: translate(-50%, -50%);
+		}
+			.b-map-skill-group__link:hover{
+				color: #E37828;
+			}
+		.b-map-skill-group h3{
+
+		}
+		.b-map-skill-group p{
+			font-size: 15px;
+			line-height: 25px;
+		}
+	.b-map-skill-group-1{
+		left: 0%;
+		top: 0%;
+	}
+	.b-map-skill-group-2{
+		left: 50%;
+		top: 0%;
+	}
+	.b-map-skill-group-3{
+		left: 0%;
+		top: 50%;
+	}
+	.b-map-skill-group-4{
+		left: 50%;
+		top: 50%;
+	}
 
 @media (-webkit-min-device-pixel-ratio: 1.5) {
 	
