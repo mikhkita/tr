@@ -58,10 +58,10 @@ $(document).ready(function(){
     function bindCustomScrollbar(){
         $(".custom-scrollbar:not(.binded)").wrapInner("<div class='scrollbar-wrap'></div>");
         $(".custom-scrollbar:not(.binded)").each(function(){
-            var padding = $(this).css("padding");
+            var padding = $(this).css("padding-left");
 
             if( !$(this).attr("data-padding") || $(this).attr("data-padding") == "" ){
-                $(this).attr("data-padding", $(this).css("padding"));
+                $(this).attr("data-padding", padding);
             }
             $(this).find(".scrollbar-wrap").css("padding", $(this).attr("data-padding"));
             $(this).css("padding", 0);
@@ -360,7 +360,8 @@ $(document).ready(function(){
         var json = JSON.parse(msg);
         if( json.result == "success" ){
             if( json.actions.length ){
-                for( var action of json.actions ){
+                for( var index in json.actions ){
+                    var action = json.actions[index];
                     switch (action.action) {
                         case "delete":
                             $(action.selector).remove();
@@ -476,7 +477,8 @@ $(document).ready(function(){
                 ids = [];
             }
 
-            for( var id of ids ){
+            for( var i in ids ){
+                var id = ids[i];
                 if( $("#" + pattern + id).length ){
                     $("#" + pattern + id).prop("checked", true);
                 }
