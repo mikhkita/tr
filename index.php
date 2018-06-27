@@ -391,7 +391,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="b-right-tab b-right-map custom-scrollbar hide">
+			<div class="b-right-tab b-right-map custom-scrollbar">
 				<div class="b-cards">
 					<a href="#" class="b-card">
 						<img src="i/filials/filial-1.svg" alt="">
@@ -449,7 +449,7 @@
 					</a>
 				</div>
 			</div>
-			<div class="b-right-tab b-fixed-map">
+			<div class="b-right-tab b-fixed-map hide">
 				<div class="b-map-canvas">
 					<div class="b-map b-map-3">
 						<img src="i/maps/back-3.svg" class="b-back" alt="">

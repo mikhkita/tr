@@ -58,12 +58,18 @@ $(document).ready(function(){
     function bindCustomScrollbar(){
         $(".custom-scrollbar:not(.binded)").wrapInner("<div class='scrollbar-wrap'></div>");
         $(".custom-scrollbar:not(.binded)").each(function(){
-            var padding = $(this).css("padding-left");
+            var padding = $(this).css("padding-top")+","+$(this).css("padding-right")+","+$(this).css("padding-bottom")+","+$(this).css("padding-left");
 
             if( !$(this).attr("data-padding") || $(this).attr("data-padding") == "" ){
                 $(this).attr("data-padding", padding);
             }
-            $(this).find(".scrollbar-wrap").css("padding", $(this).attr("data-padding"));
+            var paddingArr = $(this).attr("data-padding").split(",");
+            $(this).find(".scrollbar-wrap").css({
+                "padding-top" : paddingArr[0],
+                "padding-right" : paddingArr[1],
+                "padding-bottom" : paddingArr[2],
+                "padding-left" : paddingArr[3]
+            });
             $(this).css("padding", 0);
         });
         $(".custom-scrollbar:not(.binded)").mCustomScrollbar({
@@ -502,7 +508,9 @@ $(document).ready(function(){
     // Select with Search ------------------------------------------ Select with Search
 
     // Map --------------------------------------------------------- Map
-    $(".b-fixed-map").KitMap();
+    if( $(".b-fixed-map").length ){
+        $(".b-fixed-map").KitMap();
+    }
     // Map --------------------------------------------------------- Map
 
     bindForm();

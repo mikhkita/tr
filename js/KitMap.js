@@ -41,7 +41,7 @@
        		margin : 50,
        		startX : 0,
        		startY : 0,
-       		zoom : 1,
+       		zoom : 3,
        		startScrollTop : 0,
 			startScrollLeft : 0,
 			tolerance : 20,
@@ -174,8 +174,8 @@
 				},
 
 				changeZoom : function(side, $el){
-					if( _.zoom + side > 2 ) 
-						return true;
+					// if( _.zoom + side > 2 ) 
+						// return true;
 
 					_.isSmallMap = false;
 					console.log("_.isSmallMap = false;");
