@@ -1473,13 +1473,25 @@ input:-moz-placeholder {
 		.b-map-4{
 			background-position: 50% 50%;
 			background-repeat: no-repeat;
-			/*background-image: url('../i/maps/plan-4.jpg');*/
+			background-image: url('../i/maps/plan-4.jpg');
 			background-size: contain;
 		}
 		.b-map-3{
 			background-position: 50% 50%;
 			background-repeat: no-repeat;
 			background-image: url('../i/maps/plan-3.jpg');
+			background-size: contain;
+		}
+		.b-map-2{
+			background-position: 50% 50%;
+			background-repeat: no-repeat;
+			background-image: url('../i/maps/plan-2.jpg');
+			background-size: contain;
+		}
+		.b-map-1{
+			background-position: 50% 50%;
+			background-repeat: no-repeat;
+			background-image: url('../i/maps/plan-1.jpg');
 			background-size: contain;
 		}
 			.b-map img.b-back{
