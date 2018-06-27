@@ -542,3 +542,266 @@
     	top: 79.1%;
     	left: 97.1%;
 	}
+/*------------------------------------------------------B_MAP2------------------------------------------------------*/
+/*------------------------------------ОРАНЖЕВАЯ КОМНАТА------------------------------------*/
+.b-map-2 .b-flower{
+	width: 5.4%;
+}
+
+	.b-map-2 .b-flower-1{
+	    top: 3.6%;
+		left: 33.1%;
+	}
+	.b-map-2 .b-flower-2{
+		top: 4.4%;
+    	left: 94.1%;
+    	-webkit-transform: rotateZ(21deg);
+  		   -moz-transform: rotateZ(21deg);
+            -ms-transform: rotateZ(21deg);
+          	 -o-transform: rotateZ(21deg);
+		        transform: rotateZ(21deg);
+	}
+	.b-map-2 .b-flower-3{
+	    top: 44.1%;
+    	left: 50.6%;
+    	-webkit-transform: rotateZ(90deg);
+  		   -moz-transform: rotateZ(90deg);
+            -ms-transform: rotateZ(90deg);
+          	 -o-transform: rotateZ(90deg);
+		        transform: rotateZ(90deg);
+	}
+	.b-map-2 .b-flower-4{
+		top: 12.2%;
+	     left: 0.7%;
+	     -webkit-transform: scaleY(-1);
+	  		   -moz-transform: scaleY(-1);
+	            -ms-transform: scaleY(-1);
+	          	 -o-transform: scaleY(-1);
+			        transform: scaleY(-1);
+	}
+/*---------------------------------------*/
+.b-map-2 .b-chair{
+	width: 5.6%;
+}
+
+	.b-map-2 .b-chair-1{
+        top: 32.3%;
+    	left: 0.5%;
+    	-webkit-transform: rotateZ(233deg);
+  		   -moz-transform: rotateZ(233deg);
+            -ms-transform: rotateZ(233deg);
+          	 -o-transform: rotateZ(233deg);
+		        transform: rotateZ(233deg);
+	}
+	.b-map-2 .b-chair-2{
+		top: 45%;
+    	left: 44.8%;
+        -webkit-transform: rotateZ(184deg);
+  		   -moz-transform: rotateZ(184deg);
+            -ms-transform: rotateZ(184deg);
+          	 -o-transform: rotateZ(184deg);
+		        transform: rotateZ(184deg);
+	}
+	.b-map-2 .b-chair-3{
+		top: 45.2%;
+    	left: 89.3%;
+   		-webkit-transform: rotateZ(180deg);
+  		   -moz-transform: rotateZ(180deg);
+            -ms-transform: rotateZ(180deg);
+          	 -o-transform: rotateZ(180deg);
+		        transform: rotateZ(180deg);
+	}
+	.b-map-2 .b-chair-4{
+		top: 39%;
+   		left: 94.6%;
+   		-webkit-transform: rotateZ(90deg);
+  		   -moz-transform: rotateZ(90deg);
+            -ms-transform: rotateZ(90deg);
+          	 -o-transform: rotateZ(90deg);
+		        transform: rotateZ(90deg);
+	}
+/*---------------------------------------*/
+.b-map-2 .b-cactus{
+	width: 4.4%;
+}
+	.b-map-2 .b-cactus-1{
+		top: 44.9%;
+	    left: 94.8%;
+	    -webkit-transform: rotateZ(180deg);
+  		   -moz-transform: rotateZ(180deg);
+            -ms-transform: rotateZ(180deg);
+          	 -o-transform: rotateZ(180deg);
+		        transform: rotateZ(180deg);
+	}
+	.b-map-2 .b-cactus-2{
+    	top: 1.5%;
+    	left: 91.2%;
+    	-webkit-transform: rotateZ(23deg);
+  		   -moz-transform: rotateZ(23deg);
+            -ms-transform: rotateZ(23deg);
+          	 -o-transform: rotateZ(23deg);
+		        transform: rotateZ(23deg);
+	}
+/*---------------------------------------*/
+.b-map-2 .b-sofa{
+		width: 5.4%;
+	}
+	.b-map-2 .b-sofa-1{
+	    top: 24.2%;
+    	left: 3.2%;
+	}
+/*------------------------------------РОЗОВАЯ КОМНАТА------------------------------------*/
+	.b-map-2 .b-flower-5{
+        top: 59.7%;
+    	left: 3.3%;
+	}
+	.b-map-2 .b-flower-6{
+	    top: 54.1%;
+    	left: 96.4%;
+	}
+	.b-map-2 .b-flower-7{
+	    top: 92.7%;
+    	left: 3.7%;
+	}
+	.b-map-2 .b-flower-8{
+	    top: 92.4%;
+    	left: 63.5%;
+	    -webkit-transform: rotateZ(90deg);
+  		   -moz-transform: rotateZ(90deg);
+            -ms-transform: rotateZ(90deg);
+          	 -o-transform: rotateZ(90deg);
+		        transform: rotateZ(90deg);
+	}
+/*---------------------------------------*/
+	.b-map-2 .b-chair-5{
+        top: 51%;
+    	left: 1.1%;
+    	-webkit-transform: rotateZ(133deg);
+  		   -moz-transform: rotateZ(133deg);
+            -ms-transform: rotateZ(133deg);
+          	 -o-transform: rotateZ(133deg);
+		        transform: rotateZ(133deg);
+	}
+	.b-map-2 .b-chair-6{
+	    top: 71%;
+    	left: 93.3%;
+        -webkit-transform: rotateZ(304deg);
+  		   -moz-transform: rotateZ(304deg);
+            -ms-transform: rotateZ(304deg);
+          	 -o-transform: rotateZ(304deg);
+		        transform: rotateZ(304deg);
+	}
+	.b-map-2 .b-chair-7{
+	    top: 96.4%;
+    	left: 91.8%;
+	}
+	.b-map-2 .b-chair-8{
+		top: 87.8%;
+    	left: 94.1%;
+   		-webkit-transform: rotateZ(270deg);
+  		   -moz-transform: rotateZ(270deg);
+            -ms-transform: rotateZ(270deg);
+          	 -o-transform: rotateZ(270deg);
+		        transform: rotateZ(270deg);
+	}
+/*---------------------------------------*/
+	
+	.b-map-2 .b-cactus-3{
+	    top: 96.3%;
+    	left: 96.7%;
+	}
+	.b-map-2 .b-cactus-4{
+	    top: 96.4%;
+    	left: 7.4%;
+	}
+/*---------------------------------------*/
+
+	.b-map-2 .b-sofa-2{
+	    top: 63.1%;
+    	left: 96.6%;
+	}
+/*------------------------------------------------------B_MAP2------------------------------------------------------*/
+/*------------------------------------СИНЯЯ КОМНАТА------------------------------------*/
+.b-map-1 .b-flower{
+	width: 7.4%;
+}
+	.b-map-1 .b-flower-1{
+		top: 4.6%;
+    	left: 4.3%;
+	}
+	.b-map-1 .b-flower-2{
+	    top: 42.5%;
+    	left: 4.8%;
+	}
+	.b-map-1 .b-flower-3{
+		top: 94.5%;
+	    left: 5.1%;
+	}
+	.b-map-1 .b-flower-4{
+	    top: 35.7%;
+    	left: 95.7%;
+	}
+/*---------------------------------------*/
+.b-map-1 .b-chair{
+	width: 7.6%;
+}
+	.b-map-1 .b-chair-1{
+		top: 29.8%;
+    	left: 1.3%;
+    	-webkit-transform: rotateZ(127deg);
+  		   -moz-transform: rotateZ(127deg);
+            -ms-transform: rotateZ(127deg);
+          	 -o-transform: rotateZ(127deg);
+		        transform: rotateZ(127deg);
+	}
+	.b-map-1 .b-chair-2{
+		top: 58.6%;
+    	left: 91.7%;
+    	-webkit-transform: rotateZ(306deg);
+  		   -moz-transform: rotateZ(306deg);
+            -ms-transform: rotateZ(306deg);
+          	 -o-transform: rotateZ(306deg);
+		        transform: rotateZ(306deg);
+	}
+	.b-map-1 .b-chair-3{
+		top: 96.3%;
+    	left: 89.8%;
+	}
+	.b-map-1 .b-chair-4{
+		top: 84.7%;
+    	left: 92.9%;
+   		-webkit-transform: rotateZ(270deg);
+  		   -moz-transform: rotateZ(270deg);
+            -ms-transform: rotateZ(270deg);
+          	 -o-transform: rotateZ(270deg);
+		        transform: rotateZ(270deg);
+	}
+/*---------------------------------------*/
+.b-map-1 .b-cactus{
+	width: 6.2%;
+}
+	.b-map-1 .b-cactus-1{
+		top: 96%;
+     	left: 96.5%;
+	}
+	.b-map-1 .b-cactus-2{
+	    top: 96%;
+    	left: 11.6%;
+	}
+/*---------------------------------------*/
+.b-map-1 .b-sofa{
+	width: 7.2%;
+}
+	.b-map-1 .b-sofa-1{
+	    top: 56.1%;
+    	left: 3.8%;
+	}
+	.b-map-1 .b-sofa-2{
+    	top: 39.15%;
+    	left: 92.3%;
+   		-webkit-transform: scale(-1, 1);
+  		   -moz-transform: scale(-1, 1);
+            -ms-transform: scale(-1, 1);
+          	 -o-transform: scale(-1, 1);
+		        transform: scale(-1, 1);
+	}
