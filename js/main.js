@@ -98,13 +98,23 @@ $(document).ready(function(){
         var i = 0;
         $(".b-line-progressbar:not(.animated)").each(function(){
             var percent = $(this).attr("data-percent")*1,
-                $this = $(this);
+                $this = $(this),
+                nowShow = $(this).parents(".b-map").length;
 
             if( $(this).parents(".b-progressbar-cont.without-percent").length ){
-                $(this).html('<span class="b-line-progressbar__bar"></span>');
+                if( nowShow ){
+                    $(this).html('<span class="b-line-progressbar__bar" style="width: '+percent+'%"></span>');
+                }else{
+                    $(this).html('<span class="b-line-progressbar__bar"></span>');
+                }
             }else{
-                $(this).html('<span class="b-line-progressbar__bar"></span><span class="b-line-progressbar__percent">' + percent + '%</span>');
-                $(this).find(".b-line-progressbar__percent").delay(300).fadeIn(300);
+                if( nowShow ){
+                    $(this).html('<span class="b-line-progressbar__bar" style="width: '+percent+'%"></span><span class="b-line-progressbar__percent">' + percent + '%</span>');
+                    $(this).find(".b-line-progressbar__percent").fadeIn(0);
+                }else{
+                    $(this).html('<span class="b-line-progressbar__bar"></span><span class="b-line-progressbar__percent">' + percent + '%</span>');
+                    $(this).find(".b-line-progressbar__percent").delay(300).fadeIn(300);
+                }
 
                 if( percent > 53 ){
                     $(this).addClass("white");
@@ -511,6 +521,15 @@ $(document).ready(function(){
     if( $(".b-fixed-map").length ){
         $(".b-fixed-map").KitMap();
     }
+    $("body").on("click", ".b-map .b-avatar", function(){
+        $(this).prev(".b-bubble").find(".ajax-popup").click();
+    });
+    $("body").on("mouseover", ".b-map .b-avatar", function(){
+        var offset = $(this).offset().top - $(".b-map-canvas").offset().top;
+        if( offset < 300 ){
+            $(this).parents(".b-avatar-cont").addClass("bot");
+        }
+    });
     // Map --------------------------------------------------------- Map
 
     bindForm();
