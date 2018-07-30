@@ -54,19 +54,27 @@
 		return this.each(function(){
 			_.extend({
 				_init : function (){
-					_.canvas = _.find(".b-map-canvas");
-
-					_.resizeHandler();
-
 					_.initHandlers();
 
 					_.afterInit();
 				},
 
+				initMap : function(html){
+					$(".b-fixed-map").html(html);
+
+					_.canvas = _.find(".b-map-canvas");
+
+					bindForm();
+
+					_.initProgressBars();
+
+					_.resizeHandler();
+				},
+
 				initHandlers : function(){
 					$(window).resize(function(){ _.resizeHandler(); });
 
-					_.on( _.isTouch ? "touchstart" : "mousedown", function(y){
+					_.bind( _.isTouch ? "touchstart" : "mousedown", function(y){
 						e = _.isTouch ? y.originalEvent.touches[0] : y;
 						_.dragStart = true;		
 
@@ -77,7 +85,7 @@
 						_.startScrollLeft = _.scrollLeft();
 					});	
 
-					$(document).on( _.isTouch ? "touchmove" : "mousemove", function(y){
+					$(document).bind( _.isTouch ? "touchmove" : "mousemove", function(y){
 						if( !_.dragStart ) return true;
 
 						var currentScrollTop = _.startScrollTop + _.startY - e.pageY,
@@ -110,7 +118,7 @@
 						return false;
 					});	
 
-					$(window).on( _.isTouch ? "touchend" : "mouseup", function(y){
+					$(window).bind( _.isTouch ? "touchend" : "mouseup", function(y){
 						if( !_.dragStart ) return true;
 
 						_.dragStart = false;
@@ -123,7 +131,7 @@
 						// if (_.wasDrag) return false;
 					});	
 
-					$(document).mouseleave(function(){
+					$(document).bind("mouseleave", function(){
 						_.dragStart = false;
 						_.wasDrag = false;
 						_.removeClass("dragged");
@@ -137,36 +145,61 @@
 						_.changeZoom(1, $(this).parent(".b-map-skill-group") );
 					});
 
-					$(".b-map-zoom-in, .b-card").click(function(){
+					$(".b-map-zoom-in").bind("click", function(){
 						_.changeZoom(1);
 						return false;
 					});
 
-					$(".b-map-zoom-out").click(function(){
+					$(".b-card").bind("click", function(){
+						_.canvas = null;
+						$(".b-fixed-map").html("");
+
+						$.ajax({
+		                    type: "GET",
+		                    url: $(this).attr("href"),
+		                    data: $(".b-left-col form").eq(0).serialize(),
+		                    success: function(msg){
+		                        _.initMap(msg);
+
+		                        _.changeZoom(1);
+		                    },
+		                    error: function(){
+		                        
+		                    },
+		                    complete: function(){
+		                        
+		                    }
+		                });
+						return false;
+					});
+
+					$(".b-map-zoom-out").bind("click", function(){
 						_.changeZoom(-1);
 						return false;
 					});
 
-					$("body").on("click", ".b-top-right-btn", function(){
-				        $(".b-right-tab").addClass("hide");
-				        if( $(this).attr("data-map") == "1" ){
-				        	if( _.isSmallMap ){
-				        		$(".b-right-map").removeClass("hide");
-				        	}else{
-				        		$(".b-fixed-map").removeClass("hide");
-				        	}
-				        }else{
-				        	$($(this).attr("data-block")).removeClass("hide");
-				        }
-
-				        if( !$(".b-right-col").hasClass("hide") ){
-				            $(".b-map-nav").hide();
-				        }else {
-				            $(".b-map-nav").show();
-				        }
-
-				        return false;
+					$("body").on("click", ".b-map .b-avatar", function(){
+				        $(this).prev(".b-bubble").find(".ajax-popup").click();
 				    });
+
+				    $("body").on("mouseover", ".b-map .b-avatar", function(){
+				        var offset = $(this).offset().top - $(".b-map-canvas").offset().top;
+				        if( offset < 300 ){
+				            $(this).parents(".b-avatar-cont").addClass("bot");
+				        }
+				    });
+				},
+
+				destroyHandlers : function(){
+					_.unbind( _.isTouch ? "touchstart" : "mousedown");	
+
+					$(document).unbind( _.isTouch ? "touchmove" : "mousemove");	
+
+					$(window).unbind( _.isTouch ? "touchend" : "mouseup");
+
+					$(document).unbind("mouseleave");
+
+					$(".b-map-skill-group__link, .b-map-zoom-in, .b-card, .b-map-zoom-out").unbind("click");
 				},
 
 				afterInit : function(){
@@ -177,18 +210,14 @@
 					if( _.zoom + side > 2 ) 
 						return true;
 
-					_.isSmallMap = false;
-					console.log("_.isSmallMap = false;");
-
 					if( _.zoom + side > 0 && _.hasClass("hide") ){
 						$(".b-right-tab").addClass("hide");
 						$(".b-fixed-map").removeClass("hide");
-						_.calcWidth();
+						$(".b-map-buttons").show();
 					}else if( _.zoom + side == 0 ){
 						$(".b-right-tab").addClass("hide");
 						$(".b-right-map").removeClass("hide");
-						_.isSmallMap = true;
-						console.log("_.isSmallMap = true;");
+						$(".b-map-buttons").hide();
 					}else{
 						_.scrollTop( _.scrollTop()/_.zoom*(_.zoom + side) );
 						_.scrollLeft( _.scrollLeft()/_.zoom*(_.zoom + side) );
@@ -216,7 +245,27 @@
 					}).addClass("zoom-"+_.zoom);
 				},
 
+				initProgressBars : function(){
+					_.canvas.find(".b-line-progressbar:not(.animated)").each(function(){
+			            var percent = $(this).attr("data-percent")*1,
+			                $this = $(this);
+
+	                    $(this).html('<span class="b-line-progressbar__bar" style="width: '+percent+'%"></span><span class="b-line-progressbar__percent">' + percent + '%</span>');
+	                    $(this).find(".b-line-progressbar__percent").fadeIn(0);
+
+		                if( percent > 53 ){
+		                    $(this).addClass("white");
+		                }
+
+			            $(this).addClass("animated");
+			        });
+				},
+
 				resizeHandler : function(){
+					if( _.canvas == null ){
+						return true;
+					}
+
 					_.o.resize(_);
 
 					_.calcWidth();
@@ -229,3 +278,9 @@
        	});
 	};
 })(jQuery);
+
+$(document).ready(function(){
+	if( $(".b-fixed-map").length ){
+        $(".b-fixed-map").KitMap();
+    }
+});
